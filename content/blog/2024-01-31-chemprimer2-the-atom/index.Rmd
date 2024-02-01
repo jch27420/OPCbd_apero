@@ -1,0 +1,43 @@
+---
+title: ChemPrimer2 - "The Atom"
+subtitle: " "
+excerpt: "The second installment in the ChemPrimer Project series, discusses some of the pioneering work that gave rise to modern day Chemistry, including the bizarre world of quantum mechanics."
+author: JCH
+date: '2024-02-01'
+bibliography: OPC_citations.bib
+csl: NIH_research.csl
+link-citations: yes
+slug:
+categories:
+tags:
+layout: single
+---
+
+<style>
+/* =============================== */
+/*          CSS for Links          */
+/* =============================== */
+
+a.one:link {color: rgb(0, 0, 200);}
+a.one:visited {color: rgb(192, 20, 172);}
+a.one:hover {color: rgb(255, 20, 100);}
+
+</style>
+
+
+&nbsp; &nbsp; As a prelude to "*ChemPrimer2: The Atom*", the most recent update to the **ChemPrimer Project**, I would like to offer the following brief overview.  
+&nbsp; &nbsp; It begins, of course, where the first instalment left off, namely the very early years of the 20<sup>th</sup> century. The age old debate about the existence of the **atom** had finally been settled in its favour, thanks to the efforts of many great scientists such as **<a class="one" href="https://www.nobelprize.org/prizes/physics/1921/summary/">Albert Einstein</a>** (1905) and **<a class="one" href="https://www.nobelprize.org/prizes/physics/1926/perrin/facts/">Jean Perrin</a>** (1909).**[@einstein_uber_1905; @perrin_mou_1909; @perrin_brownian_1910; @perrin_atoms_1916]** This was a triumphant moment in the history of science, since it affirmed the work of many 19<sup>th</sup> century *Atomists* who championed the **Kinetic Molecular Theory** (**KMT**). As **Perrin** alluded to in the preface of his book:  
+
+>"*There are cases where hypothesis is, on the contrary, both necessary and fruitful ....To divine in this way the existence and properties of objects that still lie outside our ken, <b>to explain the complications of the visible in terms of invisible simplicity</b>, is the function of the intuitive intelligence which, thanks to men such as <b>Dalton</b> and <b>Boltzmann</b>, has given us the doctrine of Atoms*." **[@perrin_atoms_1916]**
+
+The phenomenal progress that quickly followed **Perrin's** (1909) own triumph included **Rutherford's** (1911) discovery of the **proton** and **nucleus**,**[@rutherford_scattering_1911; @rutherford_structure_1914]** **Millikan's** (1911-13) determination of the charge and mass of **JJ Thomson** (1897) recently discovered **electron** ;**[@thomson_cathode_1897; @millikan_isolation_1911; @millikan_elementary_1913]** and **Bohr's** (1913) "*quantization*" of all things **Newtonian**.**[@bohr_i_1913; @bohr_ii_1913; @bohr_xxxvii_1913]** These were some of the early "*seeds*" that would eventually bear even riper "*fruit*" in the coming decade, notably after the Great War. This would include **Louis de Broglie's** (1923) discovery of the "*wave-like*" properties of matter,**[@broglie_xxxv_1924; @de_broglie_ondes_1923]** as well as **Erwin Shrodinger's** (1926) and **Paul Dirac's** (1926) development of a quantum "*language*" to describe this strange **wave-particle** behaviour of energy and matter.**[@broglie_xxxv_1924; @de_broglie_ondes_1923; @dirac_quantum_1927; @dirac_theory_1926; @schrodinger_undulatory_1926]** There are of course other remarkable characters in this story, which I'll leave it to you to discover from the Project section.  
+
+happy reading!  
+
+JCH
+
+
+## References  
+
+
+
