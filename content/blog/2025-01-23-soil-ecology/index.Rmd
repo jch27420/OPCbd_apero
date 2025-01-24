@@ -1,0 +1,91 @@
+---
+title: Soil Ecology
+subtitle: " "
+excerpt: "The latest addition to the Project section takes a look at the one of the most important and under appreciated components of OPC, namely its soil. This invaluable resource is home to most of the biodiversity found on the planet. Although our understanding of soil ecology is somewhat rudimentary, what we do know is really quite fascinating and essential reading."
+author: JCH
+date: '2025-01-24'
+bibliography: OPC_Blog_SoilEcology.bib
+csl: NIH_research.csl
+link-citations: yes
+slug:
+categories:
+tags:
+layout: single
+---
+
+<style>
+
+/* =============================== */
+/*          CSS for Links          */
+/* =============================== */
+
+a.one:link {color: rgb(0, 0, 200);}
+a.one:visited {color: rgb(192, 20, 172);}
+a.one:hover {color: rgb(255, 20, 100);}
+
+/* =============================== */
+/*           CSS for Text          */
+/* =============================== */
+
+#Blk { font-weight: bold; color: rgb(0, 0, 0); }
+#Red { font-weight: bold; color: rgb(255, 10, 20); }
+#Red2 { font-weight: bold; color: rgb(255, 50, 50); }
+#Dred { font-weight: bold; color: rgb(175, 0, 0); }
+#Or { font-weight: bold; color: rgb(255, 140, 0); }
+#Or2 { font-weight: bold; color: rgb(245, 180, 0); }
+#Gold { font-weight: bold; color: rgb(230, 190, 0); }
+#Ly { font-weight: bold; color: rgb(225, 200, 0); }
+#Y1 { font-weight: bold; color: rgb(255, 225, 100); }
+#Y2 { font-weight: bold; color: rgb(225, 200, 50); }
+#GrY { font-weight: bold; color: rgb(240, 240, 0); }
+#Grod { font-weight: bold; color: rgb(200, 160, 40); }
+#Gr1 { font-weight: bold; color: rgb(25, 200, 25); }
+#Gr2 { font-weight: bold; color: rgb(25, 150, 25); }
+#Gr3 { font-weight: bold; color: rgb(25, 100, 25); }
+#Moss { font-weight: bold; color: rgb(80, 210, 100); }
+#BGr { font-weight: bold; color: rgb(67, 205, 170); }
+#Teal { font-weight: bold; color: rgb(60, 180, 180); }
+#Teal2 { font-weight: bold; color: rgb(60, 100, 200); }
+#Blue { font-weight: bold; color: blue; }
+#SkyB { font-weight: bold; color: rgb(104, 207, 240); }
+#Cb { font-weight: bold; color: rgb(0, 123, 167); }
+#Glacialb { font-weight: bold; color: rgb(54, 139, 193); }
+#Db2 { font-weight: bold; color: rgb(0, 0, 100); }
+#Lb1 { font-weight: bold; color: rgb(50, 215, 255); }
+#Lb2 { font-weight: bold; color: rgb(50, 155, 255); }
+#Lb3 { font-weight: bold; color: rgb(50, 115, 255); }
+#Violet { font-weight: bold; color: rgb(180, 73, 255); }
+#V2 { font-weight: bold; color: rgb(183, 137, 211); }
+#Purple { font-weight: bold; color: rgb(150, 0, 255); }
+#Dpurp { font-weight: bold; color: rgb(95, 0, 161); }
+#Magenta { font-weight: bold; color: rgb(255, 0, 255); }
+#Coral { font-weight: bold; color: rgb(255, 127, 80); }
+#Salmon { font-weight: bold; color: rgb(255, 140, 160); }
+#Crim { font-weight: bold; color: rgb(220, 20, 60); }
+#Rasp { font-weight: bold; color: rgb(227, 11, 92); }
+#Lgray { font-weight: bold; color: rgb(220, 220, 220); }
+#Silver { font-weight: bold; color: rgb(192, 192, 192); }
+#Gray { font-weight: bold; color: rgb(155, 155, 155); }
+#Gray2 { font-weight: bold; color: rgb(215, 200, 200); }
+#Dgray { font-weight: bold; color: rgb(95, 95, 95); }
+#Br { font-weight: bold; color: rgb(165, 42, 42); }
+#Rust { font-weight: bold; color: rgb(183, 65, 14); }
+#Dbr { font-weight: bold; color: rgb(100, 20, 20); }
+#Zinc { font-weight: bold; color: rgb(140, 209, 187); }
+#Zinc2 { font-weight: bold; color: rgb(0, 102, 102); }
+
+</style>
+
+
+&nbsp; &nbsp; The latest project section, entitled "<span id="Dred">OPC</span> **Soil Ecology**, takes a look at <span id="Br">soils</span>, a vital but largely under appreciated component of terrestrial ecosystems. Most of us do recognize that it is an important growth medium for plants. However, <span id="Br">soil</span> is also &ldquo;*home*&rdquo; to countless other organisms, mostly quite tiny in stature. By all accounts <span id="Br">soil</span> **microbes** (i.e. viruses, bacteria, fungi) and **fauna** (e.g. mostly invertebrates) account for the majority (>50%) of species on our planet!**[@bardgett_belowground_2014; @anthony_enumerating_2023]** Some rosy estimates suggest that <span id="Br">soils</span> may harbour more than 100 million species.**[@anthony_enumerating_2023]** Each gram of productive <span id="Br">soil</span> is known to contain 10s of thousands of bacterial species.**[@giller_diversity_1996; @pimentel_economic_1997; @fao_state_2020; @anthony_enumerating_2023]** Even these lofty numbers may be eclipsed by the number of different **viruses** that reside within <span id="Br">soil</span> environments, particularly **bacteria** "*loving*" **viruses** (i.e. **bacteriophages**).**[@williamson_viruses_2017; @jansson_soil_2023]** However, even if we remove **viruses** from the equation the number of <span id="Br">soil</span> species would still be close to 4 million! **Plants** would be in the minority (~320,000 species), with most <span id="Br">soil</span> species being either **fungi** (~2 million), **bacteria** (~1 million), or **arthropods** (~350,000).**[@bardgett_belowground_2014; @anthony_enumerating_2023]** Its a virtual "*poor-man's tropical rainforest*".**[@giller_diversity_1996]** Yet despite the enormous number and variety of species found within <span id="Br">soils</span> we know very little about their ecology and contributions (i.e. quantitative) to nutrient cycling within healthy functioning <span id="Br">soils</span>. This poor "*state of soil affairs*" is rather perplexing given that <span id="Br">soil</span> micro-organisms are well known to be essential to all life on the planet. They process all decaying organic matter, re-cycling much of it (i.e. chemical building blocks: **C**arbon, <span id="Purple">P</span>hosphorus, <span id="Gr2">N</span>itrogen, <span id="Gold">S</span>ulphur) to the benefit of all **plants** and **animals** within the <span id="Gr2">Bio</span>**sphere**.**[@smith_biogeochemical_2015; @crowther_global_2019]** The amount of **organic matter** found within <span id="Br">soils</span> (i.e. 3500 - 4800 **G**iga-**t**onnes of **C**arbon) dwarfs that found in living **plants** (i.e. 420-620 **Gt** of **C**) and the <span id="Lb1">atmo</span>**sphere** (~829 **Gt** of **C**) combined.**[@batjes_total_1996; @lal_soil_2004; @ciais_carbon_2013]** This is one of the reasons why scientists are so concerned about <span id="Br">soil</span> conservation. Degradation of this precious natural resource, which can take 100s of years to develop, is in essence an existential threat to humans on this planet. Fortunately, decades of research has clearly shown that there are many ways of conserving and improving the fertility of <span id="Br">soils</span>, mainly by minimizing <span id="Br">soil</span> erosion (e.g. implement good <span id="Br">soil</span> stewardship practices such as no-till farming and other erosion control measures) and maximizing <span id="Br">soil</span> biodiversity (e.g. avoid pesticide use and excess nutrient inputs, restore wetlands and other wildlife habitats to minimize greenhouse gas emissions).**[@giller_diversity_1996; @pimentel_economic_1997; @pimentel_environmental_1995; @blanco-canqui_principles_2010; @wagg_soil_2014; @hopwood_farming_2021]** 
+
+<br>
+as always good reading!  
+
+JCH
+
+
+### References  
+
+
+
