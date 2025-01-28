@@ -86,10 +86,6 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/jch27420/OPCbd_apero.git"
-  [[params.social]]
       icon      = "mastodon" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://mastodon.social/@OPCproject"
@@ -124,7 +120,12 @@ enableEmoji = true
     title = "Project Portfolio"
     url = "/project/"
     weight = 2
-
+  [[menu.header]]
+    name = "Gallery"
+    title = "Photo Gallery"
+    url = "/gallery/"
+    weight = 4
+    
   # Configure footer  
   [[menu.footer]]
     name = "License"
