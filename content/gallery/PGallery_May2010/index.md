@@ -191,7 +191,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><b>Balsam Ragwort</b> (<b>SU</b>, <b>G5</b>), or <i>Packera paupercula</i>, is a native perennial forb and member of the <i>Asteraceae</i> family. The smooth central green stalk supports a few small stem leaves that are noticeably narrow and frond-like (i.e. lobed half-way or more to the midrib, otherwise known as <b><a class="one" href="https://www.fs.usda.gov/wildflowers/beauty/ferns/structure.shtml" target="_blank" title="Go to USDA">pinnatifid</a></b>). It prefers wet meadows as was the case for this specimen (i.e. among the wet Tallgrasses of Ojibway Prairie Provincial Nature Reserve).
+<span id="blk"><i>Packera paupercula</i> (<b>SU</b>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/127945-Packera-paupercula" target="_blank" title="Go to iNaturalist">Balsam Ragwort</a></b>, is a native perennial forb and member of the family <i>Asteraceae</i>. The smooth central green stalk supports a few small stem leaves that are noticeably narrow and frond-like (i.e. lobed half-way or more to the midrib, otherwise known as <b><a class="one" href="https://www.fs.usda.gov/wildflowers/beauty/ferns/structure.shtml" target="_blank" title="Go to USDA">pinnatifid</a></b>).
 </span>
 </p>
 
@@ -212,7 +212,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><b>Canadian Anemone</b> (<b>S5</b>, <b>G5</b>), also known as <b>Meadow Anemone</b> (<i>Anemonastrum canadense</i>), is a perennial forb and member of the family <i>Ranunculaceae</i>. <b>Gilmore</b> (1919) mentions that the “<i>…root of this plant was one of the most highly esteemed medicines…it was prescribed for a great many ills, especially wounds…and was used also as a wash for sores affecting the eyes or other parts</i>”.</span>
+<span id="blk"><i>Anemonastrum canadense</i> (<b>S5</b>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/881527-Anemonastrum-canadense" target="_blank" title="Go to iNaturalist">Canadian Anemone</a></b> or <b>Meadow Anemone</b>, is a perennial forb and member of the family <i>Ranunculaceae</i>. <b>Gilmore</b> (1919) mentions that First Nations People considered the roots of this plant as “<i>…highly esteemed medicines…it was prescribed for a great many ills, especially wounds…and was used also as a wash for sores affecting the eyes or other parts</i>”.</span>
 </p>
 
 </div>
@@ -232,7 +232,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><b>Hairy Beardtongue</b> (<span id="Blue">S4</span>, <b>G5</b>), or <i>Penstemon hirsutus</i>, is a native perennial species with noticeable hairy erect stems that support small clusters of lavender coloured trumpet-like flowers. Its common name comes from the tufted or “<i>bearded</i>” appearance of the stamen peaking out from under the lips of the slender flowers.</span>
+<span id="blk"><i>Penstemon hirsutus</i> (<span id="Blue">S4</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/166381-Penstemon-hirsutus" target="_blank" title="Go to iNaturalist">Hairy Beardtongue</a></b>, is a native perennial species with hairy erect stems that support small clusters of lavender coloured trumpet-like flowers. Its common name comes from the tufted or “<i>bearded</i>” appearance of the stamen peaking out from under the lips of the slender flowers.</span>
 </p>
 
 </div>
@@ -252,7 +252,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><b>Northern Blue Flag</b> (<b>S5</b>, <b>G5</b>), or <i>Iris versicolor</i>, is a native perennial forb and member of the family <i>Iridaceae</i> (Irises). The showy blue-to-violet coloured flower is composed of 3 downward-curving <b>sepals</b> (“<i>falls</i>”), and 3 shorter erect <b>petals</b> (“<i>standards</i>“). Closely perched on top of each <b>sepal</b> is a slightly shorter and less colourful <b>style arm</b> that hides the <b>anther</b> (i.e. male part containing pollen). The wide <b>sepal</b> tips serve as landing pads for bees that then travel between the <b>sepal</b> and roof-like <b>style arm</b> towards the nectar at the centre of the flower. Guided by the hairy yellow central line the bees inevitably become “dusted” with pollen. Although the roots are poisonous to humans <b>Gilmore</b> (1919) mentions that First Nations People used parts of the plant as medicine. Specifically the “<i>…rootstock was pulverized and mixed with water, or more often with saliva, and the infusion dropped into the ear to cure earache; it was used also to medicate eye-water. A paste was made to apply to sores and bruises.</i>”</span>
+<span id="blk"><i>Iris versicolor</i> (<b>S5</b>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/48726-Iris-versicolor" target="_blank" title="Go to iNaturalist">Northern Blue Flag</a></b>, is a native perennial forb and member of the family <i>Iridaceae</i> (Irises). The showy blue-violet coloured flower is composed of 3 downward-curving <b>sepals</b> (“<i>falls</i>”), and 3 shorter erect <b>petals</b> (“<i>standards</i>“). Closely perched on top of each <b>sepal</b> is a slightly shorter and less colourful <b>style arm</b> that hides the <b>anther</b> (i.e. male part containing pollen). The wide <b>sepal</b> tips serve as landing pads for bees that then travel between the <b>sepal</b> and roof-like <b>style arm</b> towards the nectar at the centre of the flower. Guided by the hairy yellow central line the bees inevitably come in contact with the pollen. Although the roots are poisonous to humans <b>Gilmore</b> (1919) mentions that First Nations People used parts of the plant as medicine. Specifically the “<i>…rootstock was pulverized and mixed with water, or more often with saliva, and the infusion dropped into the ear to cure earache; it was used also to medicate eye-water. A paste was made to apply to sores and bruises.</i>”</span>
 </p>
 
 </div>
@@ -272,7 +272,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><b>Narrow-leaf-blue-eyed-grass</b> (<span id="Blue">S4</span>, <b>G5</b>), or <i>Sisyrinchium angustifolium</i>, is a petit but pretty native perennial plant of North America. It is also a member of the family <i>Iridaceae</i> (Irises) and can be found in moist meadows and open woodlands.</span>
+<span id="blk"><i>Sisyrinchium angustifolium</i> (<span id="Blue">S4</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/49916-Sisyrinchium-angustifolium" target="_blank" title="Go to iNaturalist">Narrow-leaf-blue-eyed-grass</a></b>, is a petit but pretty native perennial forb and member of the family <i>Iridaceae</i> (Irises). It can be found in moist meadows and open woodland settings.</span>
 </p>
 
 </div>
@@ -292,7 +292,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><b>Field Pussytoes</b> (<b>S5</b>, <b>G5</b>), also known as <b>Field cat’s foot</b> (<i>Antennaria neglecta</i>), is a small herbaceous plant and member of the family <i>Asteraceae</i>. This species boasts tight clusters of white “furry” flower heads and small narrow spatula-shaped leaves at its base.</span>
+<span id="blk"><i>Antennaria neglecta</i> (<b>S5</b>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/127005-Antennaria-neglecta" target="_blank" title="Go to iNaturalist">Field Pussytoes</a></b> or <b>Field cat’s foot</b>, is a small forb and member of the family <i>Asteraceae</i>. This species boasts tight clusters of white “furry” flower heads and small narrow spatula-shaped leaves at its base.</span>
 </p>
 
 </div>
@@ -312,7 +312,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><b>Spotted Geranium</b> (<b>S5</b>, <b>G5</b>), also known as <b>Wood Geranium</b> (<i>Geranium maculatum</i> L.), is a common native perennial plant of eastern North America that prefers moist woodlands. <b>Smith</b> (1932) mentions that First Nations People (Ojibwe) “<i>use the astringent root for the treatment of <u>flux</u>,</i>” (i.e. inflammation of the <b><a class="one" href="https://my.clevelandclinic.org/health/body/22740-periosteum" target="_blank" title="Go to MayoClinic">periosteum</a></b> of the jaw) “<i>and also for healing a sore mouth</i>”. Similar claims were also reported by <b>Arnason</b> (1981).</span>
+<span id="blk"><i>Geranium maculatum</i> L. (<b>S5</b>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/47699-Geranium-maculatum" target="_blank" title="Go to iNaturalist">Spotted Geranium</a></b> or <b>Wood Geranium</b>, is a native perennial of eastern North America that prefers moist woodlands. <b>Smith</b> (1932) mentions that First Nations People (Ojibwe) “<i>use the astringent root for the treatment of <u>flux</u>,</i>” (i.e. inflammation of the <b><a class="one" href="https://my.clevelandclinic.org/health/body/22740-periosteum" target="_blank" title="Go to MayoClinic">periosteum</a></b> of the jaw) “<i>and also for healing a sore mouth</i>”.</span>
 </p>
 
 </div>
@@ -332,7 +332,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><b>Two-Flower Cynthia</b> (<span id="Or">S2</span>, <b>G5</b>), also known as <b>Two-flower Dwarf Dandelion</b> (<i>Krigia biflora</i>), is a native perennial forb and member of the family <i>Asteraceae</i>. The species’ status is imperilled within Ontario and largely unknown in most parts of the eastern US. It can be found in wet meadows and prairies and can be easily identified by the two prominent orange-yellow rayed flower heads found atop their erect 45-to-80 cm stalks.</span>
+<span id="blk"><i>Krigia biflora</i> (<span id="Or">S2</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/119800-Krigia-biflora" target="_blank" title="Go to iNaturalist">Two-Flower Cynthia</a></b> or <b>Two-flower Dwarf Dandelion</b>, is a native perennial forb and member of the family <i>Asteraceae</i>. The species’ status is imperilled within Ontario and largely unknown in most parts of the eastern US. It can be found in wet meadows and prairies and can be easily identified by the two prominent orange-yellow rayed flower heads atop erect stalks.</span>
 </p>
 
 </div>
@@ -352,7 +352,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><b>Wild Lupine</b> (<span id="Or">S2</span><span id="Gold">S3</span>, <b>G5</b>), also known as <b>sundial</b> or <b>blue lupine</b> (<i>Lupinus perennis</i>), is a provincially endangered native perennial and member of the family <i>Fabaceae</i>. The leaves of the plant have a very distinctive palmate shape with several radiating leaflets. Ecologically the plant serves as an important food resource for the larval stage of many butterfly species, including the globally endangered <b>Karner blue</b> (i.e. <i>Plebejus samuelis</i> caterpillars feed exclusively on lupine leaves).</span>
+<span id="blk"><i>Lupinus perennis</i> (<span id="Or">S2</span><span id="Gold">S3</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/81528-Lupinus-perennis" target="_blank" title="Go to iNaturalist">Wild Lupine</a></b> or <b>sundial lupine</b>, is a provincially endangered native perennial forb and member of the family <i>Fabaceae</i>. The leaves of the plant are distinctly palmate in shape with several radiating leaflets. Ecologically the plant serves as an important food resource for the larval stage of many butterfly species, including the globally endangered <b>Karner blue</b> (i.e. <i>Plebejus samuelis</i> caterpillars feed exclusively on lupine leaves).</span>
 </p>
 
 </div>
@@ -372,7 +372,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><b>Eastern Yellow Star-Grass</b> (<span id="Or">S2</span><span id="Gold">S3</span>, <b>G5</b>), also known as <b>yellow star flower</b> or <b>common goldstar</b> (<i>Hypoxis hirsuta</i>), is a native perennial species and member of the family <i>Hypoxidaceae</i>. The brilliant golden flowers of this petit plant sports six petal-like structures, or <b>tepals</b>, that are arranged in two whorls, as well as six showy arrow-shaped yellow anthers. According to <b>Zong-Xin Ren</b> et al. (2019) these flowers do not produce nectar leaving pollen as the only reward for pollinators (i.e. mostly female native bees). The plant itself can be found in moist meadows and open wooded areas. Occasional one can come across variants that have white flowers (see lower insert).</span>
+<span id="blk"><i>Hypoxis hirsuta</i> (<span id="Or">S2</span><span id="Gold">S3</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/81797-Hypoxis-hirsuta" target="_blank" title="Go to iNaturalist">Eastern Yellow Star-Grass</a></b>, <b>yellow star flower</b> or <b>common goldstar</b>, is a native perennial plant and member of the family <i>Hypoxidaceae</i>. The brilliant golden flowers of this petit plant sports six petal-like structures, or <b>tepals</b> (arranged in two whorls), as well as six showy arrow-shaped yellow anthers. According to <b>Zong-Xin Ren</b> et al. (2019) these flowers do not produce nectar leaving pollen as the only reward for pollinators (i.e. mostly female native bees). The plant itself can be found in moist meadows and open wooded areas. Occasional one can come across variants that have white flowers (see insert).</span>
 </p>
 
 </div>
