@@ -387,49 +387,49 @@ Even today the names of some settlements remind us of southern Ontario's past gr
 <figure id="FRight250">
 <img src="images/BBStem.jpg" alt="" width="200px"/>
 <figcaption>
-<b>Big Bluestem<sup>S4G5</sup></b>
+<b>Big Bluestem<sup><span id="Blue">S4</span>G5</sup></b>
 </figcaption>
 </figure>  
 
 <figure id="FRight150">
 <img src="images/LBstem.jpg" alt="" width="200px"/>
 <figcaption>
-<b>Little Bluestem<sup>S4G5</sup></b>
+<b>Little Bluestem<sup><span id="Blue">S4</span>G5</sup></b>
 </figcaption>
 </figure> 
 
 <figure id="FRight175">
 <img src="images/HPuccoon.jpg" alt="" width="200px"/>
 <figcaption>
-<b>Hoary Puccoon<sup><span id="Blue">S3</span>G5</sup></b>
+<b>Hoary Puccoon<sup><span id="Gold">S3</span>G5</sup></b>
 </figcaption>
 </figure>
 
 <figure id="FRight175">
 <img src="images/PBEGrass.jpg" alt="" width="175px"/>
 <figcaption>
-<b>Pointed Blue-eyed-grass<sup>S4G5</sup></b>
+<b>Pointed Blue-eyed-grass<sup><span id="Blue">S4</span>G5</sup></b>
 </figcaption>
 </figure>
 
 <figure id="FRight175">
 <img src="images/MIronweed.jpg" alt="" width="200px"/>
 <figcaption>
-<b>Missouri Ironweed<sup><span id="Blue">S3</span>G4</sup></b>
+<b>Tall Ironweed<sup><span id="Dred">S1</span>G4</sup></b>
 </figcaption>
 </figure>
 
 <figure id="FRight175">
 <img src="images/PrairieDock.jpg" alt="" width="200px"/>
 <figcaption>
-<b>Prairie Dock<sup><span id="Red">S1</span>G4</sup></b>
+<b>Prairie Dock<sup><span id="Dred">S1</span>G4</sup></b>
 </figcaption>
 </figure>
 
 <figure id="FRight335">
 <img src="images/DBstar2.jpg" alt="" width="85px"/>
 <figcaption>
-<b>Dense Blazing star<sup><span id="Dred">S2</span>G5</sup></b>
+<b>Dense Blazing star<sup><span id="Or">S2</span>G5</sup></b>
 </figcaption>
 </figure>
 
@@ -440,8 +440,8 @@ Even today the names of some settlements remind us of southern Ontario's past gr
 </figcaption>
 </figure>
 
-&nbsp; &nbsp; The term "*Tallgrass Communities*" (<span id="Gr2">TGC</span>) refers to the types of plants and animals found in these ecosystems (i.e. mix of tallgrass prairies and mostly oak savannas). These rare habitats of eastern North America are home to hundreds of herbaceous plant species (i.e. grasses, sedges, forbs). And as the name suggests they are dominated by tall grasses such as **<a class="one" href="https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.133783/Andropogon_gerardii" target="_blank" title="Go to NatureServe">Big Bluestem</a>** (*Andropogon gerardi*), **<a class="one" href="https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.144026/Spartina_pectinata" target="_blank" title="Go to NatureServe">Prairie Cordgrass</a>** (*Spartina pectinata*) and **<a class="one" href="https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.141861/Schizachyrium_scoparium" target="_blank" title="Go to NatureServe">Little Bluestem</a>** (*Schizachyrium scoparium*). Many smaller **sedges**, another <u>grass-like</u> plant, as well as hundreds of flowering plant (**forbs**) species can also be found in <span id="Gr2">TGC</span>. For example, Spring brings the first of many beautiful small forbs, such as **<a class="one" href="https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.160803/Lithospermum_canescens" target="_blank" title="Go to NatureServe">Hoary Puccoon</a>** (*Lithospermum canescens*) and **<a class="one" href="https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.137876/Sisyrinchium_angustifolium" target="_blank" title="Go to NatureServe">Pointed Blue-eyed-grass</a>** (*Sisyrinchium angustifolium*). Summer in turn brings forth its own colorful bounty, such as the deep violet **<a class="one" href="https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.153254/Vernonia_missurica" target="_blank" title="Go to NatureServe">Missouri Ironweed</a>** (*Vernonia missurica*), the tall yellow **<a class="one" href="https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.151316/Silphium_terebinthinaceum" target="_blank" title="Go to NatureServe">Prairie Dock</a>** with its huge spade-like leaves, and the showy magenta spike of **<a class="one" href="https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.132723/Liatris_spicata" target="_blank" title="Go to NatureServe">Dense Blazingstar</a>** (*Liatris spicata*). These along with many other flowering plants provide food for a variety of pollinating insects, some of which require a specific plant species to complete their life cycle (e.g. Monarch butterfly and Milkweeds).  
-&nbsp; &nbsp; The **savanna** component of <span id="Gr2">TGC</span> refers to '*parkland*'-like areas that have varying degrees of tree cover (i.e. 10-60%).**[@bucini_climate_2017]** These areas are dominated by both woody and herbaceous plants. At <span id="Dred">OPC</span> the dominate woody species is **<a class="one" href="https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.133488/Quercus_velutina" target="_blank" title="Go to NatureServe">Black Oak</a>** (*Q. velutina*) and **<a class="one" href="https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.159415/Quercus_palustris" target="_blank" title="Go to NatureServe">Pin Oak</a>** (*Q. palustris*) while the dominate herbaceous plant species is usually tallgrasses. Nevertheless, other oak species (i.e. **<a class="one" href="https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.138617/Quercus_alba" target="_blank" title="Go to NatureServe">White Oak</a>** and **<a class="one" href="https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.158441/Quercus_macrocarpa" target="_blank" title="Go to NatureServe">Bur Oak</a>**) and forbs are found in abundance here. It is also interesting to note that some forbs appear to be **savanna** specialists. For example, the beautiful hemi-parasitic **<a class="one" href="https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.152809/Aureolaria_flava" target="_blank" title="Go to NatureServe">Smooth Yellow False Foxglove</a>** (*Aureolaria flava*) is only found clustered underneath the oak trees at <span id="Dred">OPC</span>. Although *A. flava* is capable of photosynthesis they selectively harvest some water and nutrients from the roots of nearby oaks.**[@committee_on_the_status_of_endangered_wildlife_in_canada_cosewic_cosewic_2019]** These parasitized resources presumably helps the plant survive some of the harsher conditions within **savannas** (i.e. occasional droughts, nutrient poor sandy soils).  
+&nbsp; &nbsp; The term "*Tallgrass Communities*" (<span id="Gr2">TGC</span>) refers to the types of plants and animals found in these ecosystems (i.e. mix of tallgrass prairies and mostly oak savannas). These rare habitats of eastern North America are home to hundreds of herbaceous plant species (i.e. grasses, sedges, forbs). And as the name suggests they are dominated by tall grasses such as <b><a class="one" href="https://www.inaturalist.org/taxa/121968-Andropogon-gerardi" target="_blank" title="Go to iNaturalist">Big Bluestem</a></b> (*Andropogon gerardi*), <b><a class="one" href="https://www.inaturalist.org/taxa/772984-Sporobolus-michauxianus" target="_blank" title="Go to iNaturalist">Prairie Cordgrass</a></b> (*Sporobolus michauxianus*) and <b><a class="one" href="https://www.inaturalist.org/taxa/122603-Schizachyrium-scoparium" target="_blank" title="Go to iNaturalist">Little Bluestem</a></b> (*Schizachyrium scoparium*). Many smaller **sedges**, another <u>grass-like</u> plant, as well as hundreds of flowering plant (**forbs**) species can also be found in <span id="Gr2">TGC</span>. For example, Spring brings the first of many beautiful small forbs, such as <b><a class="one" href="https://www.inaturalist.org/taxa/48595-Lithospermum-canescens" target="_blank" title="Go to iNaturalist">Hoary Puccoon</a></b> (*Lithospermum canescens*) and <b><a class="one" href="https://www.inaturalist.org/taxa/49916-Sisyrinchium-angustifolium" target="_blank" title="Go to iNaturalist">Narrow-leaved Blue-eyed Grass</a></b> (*Sisyrinchium angustifolium*). Summer in turn brings forth its own colorful bounty, such as the deep violet <b><a class="one" href="https://www.inaturalist.org/taxa/127037-Vernonia-gigantea" target="_blank" title="Go to iNaturalist">Tall Ironweed</a></b> (<i>Vernonia gigantea</i>), the tall yellow <b><a class="one" href="https://www.inaturalist.org/taxa/121951-Silphium-terebinthinaceum" target="_blank" title="Go to iNaturalist">Prairie Dock</a></b> with its huge spade-like leaves, and the showy magenta spike of <b><a class="one" href="https://www.inaturalist.org/taxa/117439-Liatris-spicata" target="_blank" title="Go to iNaturalist">Dense Blazingstar</a></b> (*Liatris spicata*). These along with many other flowering plants provide food for a variety of pollinating insects, some of which require a specific plant species to complete their life cycle (e.g. Monarch butterfly and Milkweeds).  
+&nbsp; &nbsp; The **savanna** component of <span id="Gr2">TGC</span> refers to '*parkland*'-like areas that have varying degrees of tree cover (i.e. 10-60%).**[@bucini_climate_2017]** These areas are dominated by both woody and herbaceous plants. At <span id="Dred">OPC</span> the dominate woody species is <b><a class="one" href="https://www.inaturalist.org/taxa/49006-Quercus-velutina" target="_blank" title="Go to iNaturalist">Black Oak</a></b> (*Q. velutina*) and <b><a class="one" href="https://www.inaturalist.org/taxa/54785-Quercus-palustris" target="_blank" title="Go to iNaturalist">Pin Oak</a></b> (*Q. palustris*) while the dominate herbaceous plant species is usually tall grasses. Nevertheless, other oak species (i.e. <b><a class="one" href="https://www.inaturalist.org/taxa/54779-Quercus-alba" target="_blank" title="Go to iNaturalist">White Oak</a></b> and <b><a class="one" href="https://www.inaturalist.org/taxa/54781-Quercus-macrocarpa" target="_blank" title="Go to iNaturalist">Bur Oak</a></b>) and forbs are found in abundance here. It is also interesting to note that some forbs appear to be **savanna** specialists. For example, the beautiful hemi-parasitic <b><a class="one" href="https://www.inaturalist.org/taxa/62404-Aureolaria-flava" target="_blank" title="Go to NatureServe">Smooth Yellow False Foxglove</a></b> (*Aureolaria flava*) is only found clustered underneath the oak trees at <span id="Dred">OPC</span>. Although *A. flava* is capable of photosynthesis they selectively harvest some water and nutrients from the roots of nearby oaks.**[@cosewic_cosewic_2019]** These parasitized resources presumably helps the plant survive some of the harsher conditions within **savannas** (i.e. occasional droughts, nutrient poor sandy soils).  
 &nbsp; &nbsp; The *transitional* nature of **oak savannas** is what ecologists call an <span id="Dpurp">ecotone</span>. Conceptually these areas represent transitions (either sharp or more gradual) between adjacent but distinct ecological communities (e.g. open prairie and closed canopy forest).**[@risser_status_1995]** For example, some of <span id="Dred">OPC</span>'s **oak savannas** connect open prairie to more heavily wooded areas, while other more isolated oaks look like small "*islands*" amid a sea of tall grasses and flowers. Needless to say, these types of transitional communities are complex owing to their varying sizes, shapes (e.g. "*patch-work*" geometry), and the ways they can interact with neighbouring ecosystems (i.e. flow of resources).**[@risser_status_1995; @strayer_classification_2003; @ries_ecological_2004; @kark_ecotones_2013]** Perhaps the most important reason for studying and protecting <span id="Dpurp">ecotones</span>, like **oak savannas**, is because of the reported positive effects they have on species abundance and richness.**[@smith_role_1997; @brawn_effects_2006; @kark_role_2007]** Certainly, from my own experiences at <span id="Dred">OPC</span>, the **oak savannas** do attract certain bird species, like the **<a class="one" href="https://www.allaboutbirds.org/guide/Red-headed_Woodpecker/overview" target="_blank" title="Go to Cornell"> Red-headed Woodpecker</a>** (*Melanerpes erythrocephalus*) and **<a class="one" href="https://www.allaboutbirds.org/guide/Indigo_Bunting/overview" target="_blank" title="Go to Cornell">Indigo Bunting</a>** (*Passerina cyanea*). Although my sightings of *M. erythrocephalus* have often been fleeting, my regular encounters with *P. cyanea* during the summer months have been anything but brief. These brilliantly colored songbirds are quite vocal when feeding on insects along the borders of the oak stands and as a consequence fairly easy to spot.  
 &nbsp; &nbsp; So what factors control the geographic distribution of tallgrass prairies and oak savannas in North America? Although <span id="Gr2">TGC</span> are dynamic systems, like any other natural community, they are greatly influenced by <span id="Blue">climate</span> and natural disturbances (i.e. <span id="Red">wild fires</span> and <span id="Purple">grazing</span>).**[@anderson_evolution_2006]**
 
