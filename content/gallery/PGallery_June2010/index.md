@@ -52,7 +52,7 @@ img {vertical-align: middle;}
 /* SlideShow container CSS */
 /* ======================= */
 .slideshow-container {
-  max-width: 500px;
+  max-width: 600px;
   position: relative;
   margin: auto;
   }
@@ -231,7 +231,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Rosa carolina</i> (<span id="Blue">S4</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/129196-Rosa-carolina" target="_blank" title="Go to iNaturalist">Carolina Rose</a></b> or <b>Pasture Rose</b>, is a native perennial shrub of eastern North America. The fragrant flowers have five light pink petals and a showy yellow centre sporting over 100 stamens. Unlike some related species (<i>R. palustris</i> and <i>R. virginiana</i>) the needle-like thorns on this rose species are straight not curved. It can be found in thickets and open woodlands. <b>Arnason</b> et. al. 1981 mentions that the buds of some species of <b>Roses</b> (e.g. <i>R. virginiana</i>) were occasional eaten by the <b>Ojibwa</b>. Today we known that <b>rose hips</b>, the accessory fruit produced by these flowers, are a rich source of <b><a class="one" href="https://fdc.nal.usda.gov/food-details/168998/nutrients" target="_blank" title="Go to USDA">vitamin C</a></b> (<b>Pyke</b> and <b>Melville</b> 1942).</span>
+<span id="blk"><i>Rosa carolina</i> (<span id="Blue">S4</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/129196-Rosa-carolina" target="_blank" title="Go to iNaturalist">Carolina Rose</a></b> or <b>Pasture Rose</b>, is a native perennial shrub and member of the family <i>Rosaceae</i>. The fragrant flowers have five light pink petals and a showy yellow centre sporting over 100 stamens. Unlike some related species (<i>R. palustris</i> and <i>R. virginiana</i>) the needle-like thorns on this rose species are straight not curved. It can be found in thickets and open woodlands. <b>Arnason</b> et. al. 1981 mentions that the buds of some species of <b>Roses</b> (e.g. <i>R. virginiana</i>) were occasional eaten by the <b>Ojibwa</b>. Today we known that <b>rose hips</b>, the accessory fruit produced by these flowers, are a rich source of <b><a class="one" href="https://fdc.nal.usda.gov/food-details/168998/nutrients" target="_blank" title="Go to USDA">vitamin C</a></b> (<b>Pyke</b> and <b>Melville</b> 1942).</span>
 </p>
 
 </div>
@@ -251,7 +251,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Erigeron strigosus</i> (<b>S5</b>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/76942-Erigeron-strigosus" target="_blank" title="Go to iNaturalist">Daisy Fleabane</a></b>, is a native forb and member of the family <i>Asteraceae</i>. The flowers are composed of multiple (50-100) ray florets, usually white, and a central yellow disc floret. Apparently they exhibit a certain degree of morphological plasticity and therefore mistaken for other closely related <b>Fleabanes</b> such as <i>Erigeron annuus</i>. However, the leaves of this plant are simple, narrow, and generally smooth along the margins. They also become smaller as you ascend the plant. In addition, the stems are <b>strigose</b> (i.e. hairs pressed against stem, upwards and not outwards as is typical of <i>Erigeron annuus</i>) or minutely <b>strigose</b> (i.e. <b>strigilose</b>).</span>
+<span id="blk"><i>Erigeron strigosus</i> (<b>S5</b>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/76942-Erigeron-strigosus" target="_blank" title="Go to iNaturalist">Daisy Fleabane</a></b>, is a native forb and member of the family <i>Asteraceae</i>. The flowers are composed of multiple (50-100) <b>ray florets</b> (usually white) and a central yellow <b>disc floret</b>. Apparently they exhibit a certain degree of morphological plasticity and are therefore often mistaken for other closely related <b>Fleabanes</b> such as <i>Erigeron annuus</i>. However, the leaves of this plant are simple, narrow, and generally smooth along the margins. They also become smaller as you ascend the plant. In addition, the stems are <b>strigose</b> (i.e. hairs pressed against stem, upwards and not outwards as is typical of <i>Erigeron annuus</i>) or minutely <b>strigose</b> (i.e. <b>strigilose</b>).</span>
 </p>
 
 </div>
@@ -271,7 +271,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Aletris farinosa</i> (<span id="Or">S2</span>, <b>G5</b>), commonly referred to as <b><a class="one" href="https://www.inaturalist.org/taxa/158161-Aletris-farinosa" target="_blank" title="Go to iNaturalist">White-tubed Colicroot</a></b> is a <b>monocot</b> and native perennial forb of eastern North America. It has a relatively long (2-3 ft.) leafless flowering stalk that boasts at its top a spike-like cluster of small beautiful creamy white cylindrical flowers. <b>White</b> and <b>Madany</b> (1981) noted that <i>A. farinosa</i> was one of a few characteristic (indicator) species of <sup>†</sup>mesic sandy prairies, which is also found at <b>OPC</b> (Note: <sup>†</sup>moisture-substrate classification scheme used to characterize local floral communities).</span>
+<span id="blk"><i>Aletris farinosa</i> (<span id="Or">S2</span>, <b>G5</b>), commonly referred to as <b><a class="one" href="https://www.inaturalist.org/taxa/158161-Aletris-farinosa" target="_blank" title="Go to iNaturalist">White-tubed Colicroot</a></b> is a native perennial forb and member of the family <i>Nartheciaceae</i>. The plant has a relatively long (2-3 ft.) leafless flowering stalk that is topped by a spike-like cluster of small beautiful creamy white cylindrical flowers. <b>White</b> and <b>Madany</b> (1981) noted that <i>A. farinosa</i> was one of a few characteristic (indicator) species of <sup>†</sup>mesic sandy prairies (Note: <sup>†</sup>moisture-substrate classification scheme used to characterize local floral communities). Unfortunately <b>COSEWIC</b> (2015) lists the species as highly threatened and no existing habitat is regulated under current provincial law. <b>COSEWIC</b> (2015) estimates that there are only ~14,600 plants, mostly (~93%) located within a 12 km<sup>2</sup> area of Essex county. All existing sub-populations are imperilled due to the continued fragmentation and loss of habitat.</span>
 </p>
 
 </div>
@@ -291,7 +291,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Verbena stricta</i> (<span id="Blue">S4</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/63319-Verbena-stricta" target="_blank" title="Go to iNaturalist">Hoary Vervain</a></b>, is a native perennial that is fairly common in central and eastern parts of North America. The small spike of lavender flowers atop the plant each have 5 petals of unequal size and shape (Note: 2 large lateral lobes and a notch lobe on the bottom). The seeds generated by the flowers (i.e. tiny nutlets) are an important food resource for many small birds and mammals.</span>
+<span id="blk"><i>Verbena stricta</i> (<span id="Blue">S4</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/63319-Verbena-stricta" target="_blank" title="Go to iNaturalist">Hoary Vervain</a></b>, is a native perennial that is fairly common in central and eastern parts of North America. The lavender flowers have 5 petals of unequal size and shape (Note: 2 large lateral lobes and a notch lobe on the bottom). The seeds (i.e. tiny nutlets) generated by the plant are an important food resource for many small birds and mammals.</span>
 </p>
 
 </div>
@@ -311,7 +311,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Asclepias tuberosa</i> (<span id="Blue">S4</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/47912-Asclepias-tuberosa" target="_blank" title="Go to iNaturalist">Butterfly weed</a></b> or <b>Orange Milkweed</b>, and the butterfly <i>Satyrium edwardsii</i> (<span id="Blue">S4</span>, <span id="Blue">G4</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/81566-Satyrium-edwardsii" target="_blank" title="Go to iNaturalist">Edwards’ hairstreak</a></b>. The plant is a native perennial forb and an important food resource for many pollinating insects, most notably butterflies, hence the name (<b>Stevens</b> 2006). First Nations People used the roots of the plant to treat respiratory illnesses (i.e. aka: <b>Pleuresy root</b>). According to <b>Gilmore</b> (1919) “<i>…root was eaten raw for bronchial and pulmonary trouble</i>”. It’s also interesting to note that the leaf levels of <b><a class="one" href="https://opc-project.netlify.app/project/pnps" target="_blank" title="Go to PNP section">cardiac glycosides</a></b> in <i>A. tuberosa</i> are much lower than those found in other milkweed species (<b>Agrawal</b> et. al 2009), which may explain why it is not the preferred host plant of <b>Monarch butterflies</b>. The presence of <i>S. edwardsii</i> is likely due to the surrounding oak savanna since their larvae feed on <i>Quercus</i> species. The distinguishing features of this uncommon butterfly are the row of white-rimmed spots on the underside and the prominent orange mark along the inner margin of the hind-wing.</span>
+<span id="blk"><i>Asclepias tuberosa</i> (<span id="Blue">S4</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/47912-Asclepias-tuberosa" target="_blank" title="Go to iNaturalist">Butterfly weed</a></b> or <b>Orange Milkweed</b>, and the butterfly <i>Satyrium edwardsii</i> (<span id="Blue">S4</span>, <span id="Blue">G4</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/81566-Satyrium-edwardsii" target="_blank" title="Go to iNaturalist">Edwards’ hairstreak</a></b>. The plant is a native perennial forb and an important food resource for many pollinating insects, most notably butterflies (<b>Stevens</b> 2006). First Nations People used the roots of the plant to treat respiratory illnesses (i.e. aka: <b>Pleuresy root</b>). According to <b>Gilmore</b> (1919) the “<i>…root was eaten raw for bronchial and pulmonary trouble</i>”. It’s also interesting to note that the concentration of <b><a class="one" href="https://opc-project.netlify.app/project/pnps" target="_blank" title="Go to PNP section">cardiac glycosides</a></b> within the leaves of <i>A. tuberosa</i> are much lower than those found in other milkweed species (<b>Agrawal</b> et. al 2009), which may help to explain why it is not the preferred host plant of <b>Monarch butterflies</b>. <i>S. edwardsii</i> feeding on <b>Butterfly weed</b> is a common site at <b>OPC</b> due in part to the presence of oaks since their larvae feed on <i>Quercus</i> species. The distinguishing features of this butterfly include the row of white-rimmed spots on the underside and the prominent orange mark along the inner margin of the hind-wing.</span>
 </p>
 
 </div>
@@ -351,7 +351,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Asclepias purpurascens</i> (<span id="Dred">S1</span>, <span id="Blue">G4</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/125380-Asclepias-purpurascens" target="_blank" title="Go to iNaturalist">Purple Milkweed</a></b>, is a rare native herbaceous plant of eastern and central North America that prefers partial shade. A notably feature of the plant’s flower is that it transition from pink to a darker purple as it matures (Note the older umbel on the right).</span>
+<span id="blk"><i>Asclepias purpurascens</i> (<span id="Dred">S1</span>, <span id="Blue">G4</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/125380-Asclepias-purpurascens" target="_blank" title="Go to iNaturalist">Purple Milkweed</a></b>, is a rare native herbaceous plant of eastern and central North America that prefers partial shade. A notably feature of this plant is the colour transitions (i.e. turns a darker purple) the flower undergoes as it matures (Note: darker older umbel on the right).</span>
 </p>
 
 </div>
@@ -391,7 +391,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Baptisia tinctoria</i> (<span id="Dred">S1</span>, <b>G5</b>), commonly referred to as <b><a class="one" href="https://www.inaturalist.org/taxa/81897-Baptisia-tinctoria" target="_blank" title="Go to iNaturalist">Eastern Wild Indigo</a></b>, and <i>Erynnis baptisiae</i> (<span id="Blue">S4</span>, <b>G5</b>) otherwise known as <b><a class="one" href="https://www.inaturalist.org/taxa/58478-Erynnis-baptisiae" target="_blank" title="Go to iNaturalist">Wild Indigo Duskywing</a></b>. This rare plant is a native perennial forb and member of the family <i>Fabaceae</i>.</span>
+<span id="blk"><i>Baptisia tinctoria</i> (<span id="Dred">S1</span>, <b>G5</b>), commonly referred to as <b><a class="one" href="https://www.inaturalist.org/taxa/81897-Baptisia-tinctoria" target="_blank" title="Go to iNaturalist">Eastern Wild Indigo</a></b>, and <i>Erynnis baptisiae</i> (<span id="Blue">S4</span>, <b>G5</b>) otherwise known as <b><a class="one" href="https://www.inaturalist.org/taxa/58478-Erynnis-baptisiae" target="_blank" title="Go to iNaturalist">Wild Indigo Duskywing</a></b>. This native perennial shrubby plant is a member of the family <i>Fabaceae</i>. First Nations People used the bark and roots of the plant to treat wounds (<b>Belt</b> 2009).</span>
 </p>
 
 </div>
@@ -411,7 +411,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Tradescantia ohiensis</i> (<span id="Or">S2</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/79383-Tradescantia-ohiensis" target="_blank" title="Go to iNaturalist">Ohio Spiderwort</a></b>, is a native perennial forb and member of the family <i>Commelinaceae</i> (Dayflowers). The smooth leaves of this plant, that wrap around the stem, have a parallel vein structure (i.e. typical monocot). The beautiful blue-violet flowers have three rounded petals and six bright yellow anthers. They form small clusters close to the stems with only a few flowers in bloom at any one time.</span>
+<span id="blk"><i>Tradescantia ohiensis</i> (<span id="Or">S2</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/79383-Tradescantia-ohiensis" target="_blank" title="Go to iNaturalist">Ohio Spiderwort</a></b>, is a native perennial forb and member of the Dayflowers family <i>Commelinaceae</i>. The smooth leaves of this plant wrap around the stem and have a parallel vein structure. The beautiful blue-violet flowers have three rounded petals and six bright yellow anthers. They form small clusters close to the stems with only a few flowers in bloom at any one time.</span>
 </p>
 
 </div>
@@ -431,7 +431,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Apocynum androsaemifolium</i> (<b>S5</b>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/47359-Apocynum-androsaemifolium" target="_blank" title="Go to iNaturalist">Spreading Dogbane</a></b>, is a native perennial forb with branching smooth stems that exude a milky sap when broken. Pairs of white pinkish flowers emerge from small stalks (as shown above) that eventually produce long thin seed pods that contain silky-haired seeds. Like milkweeds the white exudate contains toxic <b><a class="one" href="https://opc-project.netlify.app/project/pnps" target="_blank" title="Go to PNP section">cardiac glycosides</a></b>.</span>
+<span id="blk"><i>Apocynum androsaemifolium</i> (<b>S5</b>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/47359-Apocynum-androsaemifolium" target="_blank" title="Go to iNaturalist">Spreading Dogbane</a></b>, is a native perennial forb and member of the dogbane family <i>Apocynaceae</i>. Similar to milkweeds the smooth stems of this plant exude a milky sap when broken that contains toxic <b><a class="one" href="https://opc-project.netlify.app/project/pnps" target="_blank" title="Go to PNP section">cardiac glycosides</a></b>. Pairs of white pinkish flowers emerge from small stalks (see above) that can generate long thin seed pods filled with silky-haired seeds.</span>
 </p>
 
 </div>
@@ -471,7 +471,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Lythrum alatum</i> (<span id="Gold">S3</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/128998-Lythrum-alatum" target="_blank" title="Go to iNaturalist">Winged Loosestrife</a></b>, is a provincially rare native perennial forb (somewhat shrub-like) and member of the family <i>Lythraceae</i>. It prefers low lying wet areas as evidenced by this specimen (i.e. found in low lying open field on the western margins of Black Oak Heritage Park).</span>
+<span id="blk"><i>Lythrum alatum</i> (<span id="Gold">S3</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/128998-Lythrum-alatum" target="_blank" title="Go to iNaturalist">Winged Loosestrife</a></b>, is a provincially rare native perennial plant and member of the family <i>Lythraceae</i>. The six pink petals have a striking magenta central vein, and six stamens tipped by dark purple anthers. It prefers low lying wet areas as evidenced by this specimen, which was found in open wet field close to the Detroit river.</span>
 </p>
 
 </div>
@@ -492,7 +492,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 
 <p id="caption">
 <span id="blk">
-<i>Pantherophis vulpinus</i> (<span id="Gold">S3</span>, <b>G5</b>), commonly known as the <b><a class="one" href="https://www.inaturalist.org/taxa/320680-Pantherophis-vulpinus" target="_blank" title="Go to iNaturalist">Eastern Fox Snake</a></b>, is a rare and <u>threatened species</u> (<b><a class="one" href="https://www.iucnredlist.org/species/90069683/90069697" target="_blank" title="Go to IUCN">Hammerson 2019</a></b>) of rat snake and member of the family <i>Colubridae</i>. It is a relatively large but docile snake (i.e. adults upwards of 1.83 metres in length) that is golden brown in colour with dark brown spots. This non-venomous (constrictor)snake may shake its tail in dry leaves if threatened (i.e. mimics sound of a rattlesnake) and also emit a musky odour (i.e. hence the name).</span>
+<i>Pantherophis vulpinus</i> (<span id="Gold">S3</span>, <b>G5</b>), commonly known as the <b><a class="one" href="https://www.inaturalist.org/taxa/320680-Pantherophis-vulpinus" target="_blank" title="Go to iNaturalist">Eastern Fox Snake</a></b>, is a rare and <u>threatened species</u> (<b><a class="one" href="https://www.iucnredlist.org/species/90069683/90069697" target="_blank" title="Go to IUCN">Hammerson 2019</a></b>) of rat snake and member of the family <i>Colubridae</i>. It is a relatively large but docile snake (i.e. adults upwards of 1.83 metres in length) that is golden brown in colour with dark brown spots. This non-venomous constrictor can shake its tail in dry leaves if threatened (i.e. mimics sound of a rattlesnake), and also emit a musky odour (i.e. hence the name).</span>
 </p>
 
 </div>
@@ -513,7 +513,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 
 <p id="caption">
 <span id="blk">
-<i>Hypericum perforatum</i> (<b>SE5</b>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/56077-Hypericum-perforatum" target="_blank" title="Go to iNaturalist">St. John’s wort</a></b>, is an exotic perennial forb that was introduced to North America from the Old World. Its bright yellow flowers have five petals, each bearing tiny black coloured dot-like glands at their edges. They also have many prominent yellow stamens flaring our from the centre of the flower. The species earned its “<i>perforatum</i>” name by having many small translucent leaf glands that are clearly visible when the leaf is held up to the sun. Although exotic and quite invasive to disturbed areas its extensive root system does help to control soil erosion. It’s also a good source of nectar for many pollinating insects (<b>Sheahan</b> 2012).</span>
+<i>Hypericum perforatum</i> (<b>SE5</b>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/56077-Hypericum-perforatum" target="_blank" title="Go to iNaturalist">St. John’s wort</a></b>, is an exotic perennial forb that was introduced to North America from the Old World. Its bright yellow flowers have five petals, each bearing tiny black coloured dot-like glands along their margins. They also have many prominent yellow stamens flaring our from the centre of the flower. The species earned its “<i>perforatum</i>” name by having many small translucent leaf glands that are clearly visible when the leaf is held up to the sun. Although exotic and invasive to disturbed areas its extensive root system does help to control soil erosion. It’s also a good source of nectar for many pollinating insects (<b>Sheahan</b> 2012).</span>
 </p>
 
 </div>
@@ -533,7 +533,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Speyeria cybele</i> (<b>S5</b>, <b>G5</b>), commonly known as the <b><a class="one" href="https://www.inaturalist.org/taxa/1456562-Argynnis-cybele" target="_blank" title="Go to iNaturalist">Great Spangled Fritillary butterfly</a></b>, is a native butterfly species and member of the family <i>Nymphalidae</i>. It has orange colour wings with a series of dorsal black markings (dashes, crescents) on both the forewing and hindwing. Its has similar yellowish orange and black markings on the ventral side, along with a series of silver spots toward the tip of the wing. The ventral yellow band and triangular silver spots close to the edge of the hindwing help distinguish this species from other closely related Fritillary butterflies such as <b><a class="one" href="https://www.inaturalist.org/taxa/1456585-Argynnis-aphrodite" target="_blank" title="Go to iNaturalist">Aphrodite fritillary</a></b> (<i>Speyeria aphrodite</i>).</span>
+<span id="blk"><i>Speyeria cybele</i> (<b>S5</b>, <b>G5</b>), commonly known as the <b><a class="one" href="https://www.inaturalist.org/taxa/1456562-Argynnis-cybele" target="_blank" title="Go to iNaturalist">Great Spangled Fritillary butterfly</a></b>, is a native butterfly species and member of the family <i>Nymphalidae</i>. It has orange coloured wings with a series of dorsal black markings (dashes, crescents) on both the fore-wing and hind-wing. On the ventral side there is a notable yellow band and multiple triangular silver spots close to the edge of the hind-wing that help distinguish it from other closely related Fritillary butterflies such as <i>Speyeria aphrodite</i> (<b><a class="one" href="https://www.inaturalist.org/taxa/1456585-Argynnis-aphrodite" target="_blank" title="Go to iNaturalist">Aphrodite Fritillary</a></b>).</span>
 </p>
 
 </div>
@@ -614,7 +614,7 @@ function showSlides(n) {
   }
 </script>
 
-References cited in above photo gallery: <b><sup>[1](#ref-waugh_iroquois_1916)–[17](#ref-lopez-goldar_evidence_2022)</sup></b>
+References cited in above photo gallery: <b><sup>[1](#ref-waugh_iroquois_1916)–[19](#ref-lopez-goldar_evidence_2022)</sup></b>
 
 <hr style="border:2px solid gray">
 
@@ -746,21 +746,33 @@ GLOBAL & REGIONAL RANKINGS
 
 </div>
 
+<div id="ref-belt_plant_2009" class="csl-entry">
+
+<span class="csl-left-margin">15 </span><span class="csl-right-inline">Belt S. *Plant Fact Sheet for Horsefly Weed, Baptisia tinctoria (L.) R. Br.* USDA, NRCS National Plant Materials Center, Beltsville, Maryland; 2009.</span>
+
+</div>
+
 <div id="ref-agrawal_toxic_2012" class="csl-entry">
 
-<span class="csl-left-margin">15 </span><span class="csl-right-inline">Agrawal A, Petschenka A, Bingham R, Weber M, Rasmann S. Toxic Cardenolides: Chemical Ecology and Coevolution of Specialized Plant-Herbivore Interactions. *The New Phytologist* 2012;**194**:28–45. <https://doi.org/10.1111/j.1469-8137.2011.04049.x>.</span>
+<span class="csl-left-margin">16 </span><span class="csl-right-inline">Agrawal A, Petschenka A, Bingham R, Weber M, Rasmann S. Toxic Cardenolides: Chemical Ecology and Coevolution of Specialized Plant-Herbivore Interactions. *The New Phytologist* 2012;**194**:28–45. <https://doi.org/10.1111/j.1469-8137.2011.04049.x>.</span>
 
 </div>
 
 <div id="ref-sheahan_fact_2012" class="csl-entry">
 
-<span class="csl-left-margin">16 </span><span class="csl-right-inline">Sheahan CM. *[Fact sheet for common St. Johnswort (Hypericum perforatum)](https://plants.usda.gov/DocumentLibrary/factsheet/pdf/fs_hype.pdf)*. USDA-NRCS Cape May Plant Materials Center, Cape May, NJ. 08210.; 2012.</span>
+<span class="csl-left-margin">17 </span><span class="csl-right-inline">Sheahan CM. *[Fact sheet for common St. Johnswort (Hypericum perforatum)](https://plants.usda.gov/DocumentLibrary/factsheet/pdf/fs_hype.pdf)*. USDA-NRCS Cape May Plant Materials Center, Cape May, NJ. 08210.; 2012.</span>
+
+</div>
+
+<div id="ref-jones_cosewic_2015" class="csl-entry">
+
+<span class="csl-left-margin">18 </span><span class="csl-right-inline">Jones J, Bennett BA. *[COSEWIC Assessment and Status Report on the Colicroot, Aletris farinosa, in Canada](https://publications.gc.ca/site/eng/9.814013/publication.html?wbdisable=true)*. Ottawa, Canada: COSEWIC; 2015.</span>
 
 </div>
 
 <div id="ref-lopez-goldar_evidence_2022" class="csl-entry">
 
-<span class="csl-left-margin">17 </span><span class="csl-right-inline">López-Goldar X, Hastings A, Züst T, Agrawal A. Evidence for tissue-specific defence-offence interactions between milkweed and its community of specialized herbivores. *Molecular Ecology* 2022;**31**:3254–65. <https://doi.org/10.1111/mec.16450>.</span>
+<span class="csl-left-margin">19 </span><span class="csl-right-inline">López-Goldar X, Hastings A, Züst T, Agrawal A. Evidence for tissue-specific defence-offence interactions between milkweed and its community of specialized herbivores. *Molecular Ecology* 2022;**31**:3254–65. <https://doi.org/10.1111/mec.16450>.</span>
 
 </div>
 

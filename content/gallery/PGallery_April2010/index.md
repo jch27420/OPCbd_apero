@@ -52,7 +52,7 @@ img {vertical-align: middle;}
 /* SlideShow container CSS */
 /* ======================= */
 .slideshow-container {
-  max-width: 500px;
+  max-width: 600px;
   position: relative;
   margin: auto;
   }
@@ -196,7 +196,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Lithospermum canescens</i> (<span id="Gold">S3</span>, <span id="Blk">G5</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/48595-Lithospermum-canescens" target="_blank" title="Go to iNaturalist">Hoary Puccoon</a></b>, has soft hairy stems, short oblong green leaves and golden tubular flowers. The word “puccoon” is a Native American word meaning “<i>a plant that yields a pigment</i>”. <b>Gilmore</b> (1919) noted that First Nations children “…<i>used the root of this plant in sport to chew with their gum to make it of a red color. The flowers of this plant were likewise used to colour gum yellow</i>” (Note: gum was made of resin from the Compass Plant).</span>
+<span id="blk"><i>Lithospermum canescens</i> (<span id="Gold">S3</span>, <span id="Blk">G5</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/48595-Lithospermum-canescens" target="_blank" title="Go to iNaturalist">Hoary Puccoon</a></b>, is a provincially rare perennial forb and member of the family <i>Boraginaceae</i>. The leaves of the plant are oblong in shape, petiole-less and alternately arranged. The grey-greenish leaves and stems are noticeably hairy (i.e. <b>pubescent</b>) due to the presence of multiple silky <b>trichomes</b>. These tiny epidermal appendages help protect the plant from various <b>biotic</b> and <b>abiotic</b> stresses (<b>Wang</b> 2021). The distinctive orange-yellow, short-stalked tubular flowers form clusters at the end of stems (i.e. terminal <b>racemes</b>). The word “puccoon” is a Native American word meaning “<i>a plant that yields a pigment</i>”. <b>Gilmore</b> (1919) noted that First Nations children “…<i>used the root of this plant in sport to chew with their gum to make it of a red color. The flowers of this plant were likewise used to colour gum yellow</i>” (Note: gum was made of resin from the Compass Plant).</span>
 </p>
 
 </div>
@@ -216,7 +216,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Pedicularis canadensis</i> (<span id="Blk">S5</span>, <span id="Blk">G5</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/51227-Pedicularis-canadensis" target="_blank" title="Go to iNaturalist">Wood Betony</a></b> or <b>Canadian lousewort</b>, is a native forb often found in prairies and wooded areas. The flower is usually yellow (next pic), but it can also be reddish-purple or bi-colored (yellow and purple). According to <b>Waugh</b> (1916) the young tender leaves of this plant were often harvested by Iroquois and “<i>…cooked like spinach</i>”.</span>
+<span id="blk"><i>Pedicularis canadensis</i> (<span id="Blk">S5</span>, <span id="Blk">G5</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/51227-Pedicularis-canadensis" target="_blank" title="Go to iNaturalist">Wood Betony</a></b> or <b>Canadian lousewort</b>, is a native forb and member of the broomrapes family <i>Orobanchaceae</i>. Like most members of this family they are root hemi-parasites (<b>Mutuku</b> 2021). The distinctive flowers are usually yellow (next pic), but they can also be reddish-purple or bi-coloured (yellow and purple). According to <b>Waugh</b> (1916) the young tender leaves of this plant were often harvested by Iroquois and “<i>…cooked like spinach</i>”.</span>
 </p>
 
 </div>
@@ -236,7 +236,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk">This is the more common yellow variant of <b><a class="one" href="https://www.inaturalist.org/taxa/51227-Pedicularis-canadensis" target="_blank" title="Go to iNaturalist">Wood Betony</a></b>. It is interesting to note that the plant is hemi-parasitic (i.e. commonly use oaks and prairie grasses as hosts). Studies suggest that <i>P. canadensis</i> can suppress the growth of dominant grass species and thus influence (i.e. increase plant species evenness and richness) the composition of prairie communities (<b>Hedberg</b> 2005, <b>Borowicz and Armstrong</b> 2012, <b>DiGiovanni</b> et. al. 2016, <b>Hodzic</b> et. al. 2022).</span>
+<span id="blk">This is the more common yellow variant of <b><a class="one" href="https://www.inaturalist.org/taxa/51227-Pedicularis-canadensis" target="_blank" title="Go to iNaturalist">Wood Betony</a></b>. As mentioned in the previous slide this species is a root hemi-parasite that preys on oaks and prairie grasses. Studies suggest that <i>P. canadensis</i> can suppress the growth of dominant grass species and thus positively influence (i.e. increased plant species evenness and richness) the composition of prairie communities (<b>Hedberg</b> 2005, <b>Borowicz and Armstrong</b> 2012, <b>DiGiovanni</b> et. al. 2016, <b>Hodzic</b> et. al. 2022).</span>
 </p>
 
 </div>
@@ -256,7 +256,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Claytonia virginica</i> (<span id="Blk">S5</span>, <span id="Blk">G5</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/240057-Claytonia-virginica-virginica" target="_blank" title="Go to iNaturalist">Narrowleaf Springbeauty</a></b> or <b>Virginia Springbeauty</b>, is a native perennial forb of eastern North America. According to <b><a class="one" href="https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.147594/Claytonia_virginica" target="_blank" title="Go to NatureServe">NatureServe</a></b> populations of this species in Quebec and other eastern provinces are imperilled (<span id="Or">S2</span>). <b>Waugh</b> (1916) and <b>Arnason</b> et. al. (1981) mention that First Nations People used the roots (corms) of this plant for food.</span>
+<span id="blk"><i>Claytonia virginica</i> (<span id="Blk">S5</span>, <span id="Blk">G5</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/240057-Claytonia-virginica-virginica" target="_blank" title="Go to iNaturalist">Narrowleaf Springbeauty</a></b> or <b>Virginia Springbeauty</b>, is a native perennial forb and member of the family <i>Montiaceae</i>. The small white and pink flowers last for just a few days and are <b>staminate</b> for only a single day (<b>Schemske</b> et. al. 1978, <b>Frey</b> 2004). <b>Waugh</b> (1916) and <b>Arnason</b> et. al. (1981) mention that First Nations People harvested the underground tubers (i.e. <b>corms</b>) for food, which can be eaten raw or cooked (i.e. often termed “<i>fairy spuds</i>”).</span>
 </p>
 
 </div>
@@ -276,7 +276,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Uvularia sessilifolia</i> (<span id="Blue">S4</span>, <span id="Blk">G5</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/67772-Uvularia-sessilifolia" target="_blank" title="Go to iNaturalist">Sessile Bellwort</a></b> or <b>Wild Oats</b>, is a native forb of eastern and central North America. The creamy yellow coloured flowers of this plant are narrow, bell shaped and often droop downward.</span>
+<span id="blk"><i>Uvularia sessilifolia</i> (<span id="Blue">S4</span>, <span id="Blk">G5</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/67772-Uvularia-sessilifolia" target="_blank" title="Go to iNaturalist">Sessile Bellwort</a></b> or <b>Wild Oats</b>, is a native perennial forb and member of the family <i>Colchicaceae</i>. The inflorescence has only one creamy yellow flower, which is narrow, bell shaped and droops downward.</span>
 </p>
 
 </div>
@@ -296,7 +296,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Viola sagittata</i> (<span id="Blue">S4</span>, <span id="Blk">G5</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/170259-Viola-sagittata" target="_blank" title="Go to iNaturalist">Arrowleaf Violet</a></b>, is a native forb often found in prairie and woodland habitats of eastern North America. This species of violet is relatively easy to identify because of the shape of their leaves (Note background).</span>
+<span id="blk"><i>Viola sagittata</i> (<span id="Blue">S4</span>, <span id="Blk">G5</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/170259-Viola-sagittata" target="_blank" title="Go to iNaturalist">Arrowleaf Violet</a></b>, is a native perennial forb and member of the family <i>Violaceae</i>. It can be found in meadows, wetland margins and open woodland habitats in eastern North America. This species of violet is relatively easy to identify because of the arrow-like shape of the leaves (Note background).</span>
 </p>
 
 </div>
@@ -316,7 +316,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Viola pubescens</i> (<span id="Blk">S5</span>, <span id="Blk">G5</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/1467430-Viola-pubescens" target="_blank" title="Go to iNaturalist">Downy Yellow Violet</a></b>, is common native forb typically found in wooded areas. According to <b>Arnason</b> et. al. (1981) Ojibwa people used the root to make a tea to treat sore throats.</span>
+<span id="blk"><i>Viola pubescens</i> (<span id="Blk">S5</span>, <span id="Blk">G5</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/1467430-Viola-pubescens" target="_blank" title="Go to iNaturalist">Downy Yellow Violet</a></b>, is a native perennial forb and member of the family <i>Violaceae</i>. It is commonly found in rich woodlands and occasionally meadows. According to <b>Arnason</b> et. al. (1981) Ojibwa people used the root to make a tea to treat sore throats.</span>
 </p>
 
 </div>
@@ -336,7 +336,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Anemonoides quinquefolia</i> (<span id="Blk">S5</span>, <span id="Blk">G5</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/950598-Anemonoides-quinquefolia" target="_blank" title="Go to iNaturalist">Wood Anemone</a></b> or <b>windflower</b>, is a native perennial forb and member of the buttercup family <i>Ranunculaceae</i>. The specific epithet <i>quinquefolia</i> (“five-leaved”) is a misnomer since the upper lateral leaflets are lobed (see picture) giving the appearance of five leaflets (Note: emerging leaves are initially burgundy colour before turning green). It is a “<i>true</i>” spring ephemeral since it completes its entire life cycle within a few weeks in early spring.</span>
+<span id="blk"><i>Anemonoides quinquefolia</i> (<span id="Blk">S5</span>, <span id="Blk">G5</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/950598-Anemonoides-quinquefolia" target="_blank" title="Go to iNaturalist">Wood Anemone</a></b> or <b>windflower</b>, is a native perennial forb and member of the buttercup family <i>Ranunculaceae</i>. The specific epithet <i>quinquefolia</i> (“five-leaved”) is a misnomer since the upper lateral leaflets are lobed (see picture) giving the appearance of five leaflets (Note: emerging leaves are initially burgundy colour before turning green). Like <i>C. virginica</i> this flower is a “<i>true</i>” spring ephemeral since it completes its entire life cycle within a few weeks in early spring.</span>
 </p>
 
 </div>
@@ -356,7 +356,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Viola sororia</i> (<span id="Blk">S5</span>, <span id="Blk">G5</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/82816-Viola-sororia" target="_blank" title="Go to iNaturalist">Common Blue Violet</a></b>, is typically found in moist wooded areas throughout eastern North America. It’s an important food resource for pollinating insects and a host plant to the larvae of several <b>Fritillary butterfly</b> species (<b>Wheeler</b> 2017). The young leaves of this plant can also be eaten raw, cooked, or used in teas (Note: valued for their high nutrient content, particularly <b>vitamin C</b>).</span>
+<span id="blk"><i>Viola sororia</i> (<span id="Blk">S5</span>, <span id="Blk">G5</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/82816-Viola-sororia" target="_blank" title="Go to iNaturalist">Common Blue Violet</a></b>, is native perennial forb and member of the family <i>Violaceae</i>. The plant is typically found in moist wooded areas throughout eastern North America. It’s an important food resource for pollinating insects and a host plant to the larvae of several <b>Fritillary butterfly</b> species (<b>Wheeler</b> 2017). The young leaves of this plant are often praised for their high nutrient value (e.g. <b>vitamin C</b>), but available published evidence in supportive of this is scant or none existent (<b>Batiha</b> 2023).</span>
 </p>
 
 </div>
@@ -450,7 +450,7 @@ function showSlides(n) {
 </script>
 </body>
 
-References cited in above photo gallery:<sup>[1](#ref-waugh_iroquois_1916)–[8](#ref-hodzic_root_2022)</sup>
+References cited in above photo gallery:<sup>[1](#ref-waugh_iroquois_1916)–[13](#ref-batiha_systematic_2023)</sup>
 
 <hr style="border:2px solid gray">
 
@@ -510,39 +510,69 @@ GLOBAL & REGIONAL RANKINGS
 
 </div>
 
+<div id="ref-schemske_flowering_1978" class="csl-entry">
+
+<span class="csl-left-margin">3 </span><span class="csl-right-inline">Schemske DW, Willson MF, Melampy MN, Miller LJ, Verner L, Schemske KM, *et al.* Flowering Ecology of Some Spring Woodland Herbs. *Ecology* 1978;**59**:351–66. <https://doi.org/10.2307/1936379>.</span>
+
+</div>
+
 <div id="ref-arnason_use_1981" class="csl-entry">
 
-<span class="csl-left-margin">3 </span><span class="csl-right-inline">Arnason T, Hebda RJ, Johns T. Use of plants for food and medicine by Native Peoples of eastern Canada. *Canadian Journal of Botany* 1981;**59**:2189–325. <https://doi.org/10.1139/b81-287>.</span>
+<span class="csl-left-margin">4 </span><span class="csl-right-inline">Arnason T, Hebda RJ, Johns T. Use of plants for food and medicine by Native Peoples of eastern Canada. *Canadian Journal of Botany* 1981;**59**:2189–325. <https://doi.org/10.1139/b81-287>.</span>
+
+</div>
+
+<div id="ref-frey_opposing_2004" class="csl-entry">
+
+<span class="csl-left-margin">5 </span><span class="csl-right-inline">Frey FM. Opposing natural selection from herbivores and pathogens may maintain floral-color variation in Claytonia Virginica (Portulacaceae). *Evolution* 2004;**58**:2426–37. <https://doi.org/10.1554/03-477>.</span>
 
 </div>
 
 <div id="ref-hedberg_interactions_2005" class="csl-entry">
 
-<span class="csl-left-margin">4 </span><span class="csl-right-inline">Hedberg AM, Borowicz VA, Armstrong JE. Interactions between a hemiparasitic plant, Pedicularis canadensis L. (Orobanchaceae), and members of a tallgrass prairie community. *The Journal of the Torrey Botanical Society* 2005;**132**:401–10. [https://doi.org/10.3159/1095-5674(2005)132\[401:IBAHPP\]2.0.CO;2](https://doi.org/10.3159/1095-5674(2005)132[401:IBAHPP]2.0.CO;2).</span>
+<span class="csl-left-margin">6 </span><span class="csl-right-inline">Hedberg AM, Borowicz VA, Armstrong JE. Interactions between a hemiparasitic plant, Pedicularis canadensis L. (Orobanchaceae), and members of a tallgrass prairie community. *The Journal of the Torrey Botanical Society* 2005;**132**:401–10. [https://doi.org/10.3159/1095-5674(2005)132\[401:IBAHPP\]2.0.CO;2](https://doi.org/10.3159/1095-5674(2005)132[401:IBAHPP]2.0.CO;2).</span>
 
 </div>
 
 <div id="ref-borowicz_resource_2012" class="csl-entry">
 
-<span class="csl-left-margin">5 </span><span class="csl-right-inline">Borowicz VA, Armstrong JE. Resource limitation and the role of a hemiparasite on a restored prairie. *Oecologia* 2012;**169**:783–92. <https://doi.org/10.1007/s00442-011-2222-7>.</span>
+<span class="csl-left-margin">7 </span><span class="csl-right-inline">Borowicz VA, Armstrong JE. Resource limitation and the role of a hemiparasite on a restored prairie. *Oecologia* 2012;**169**:783–92. <https://doi.org/10.1007/s00442-011-2222-7>.</span>
 
 </div>
 
 <div id="ref-digiovanni_role_2017" class="csl-entry">
 
-<span class="csl-left-margin">6 </span><span class="csl-right-inline">DiGiovanni JP, Wysocki WP, Burke SV, Duvall MR, Barber NA. The role of hemiparasitic plants: Influencing tallgrass prairie quality, diversity, and structure. *Restoration Ecology* 2017;**25**:405–13. <https://doi.org/10.1111/rec.12446>.</span>
+<span class="csl-left-margin">8 </span><span class="csl-right-inline">DiGiovanni JP, Wysocki WP, Burke SV, Duvall MR, Barber NA. The role of hemiparasitic plants: Influencing tallgrass prairie quality, diversity, and structure. *Restoration Ecology* 2017;**25**:405–13. <https://doi.org/10.1111/rec.12446>.</span>
 
 </div>
 
 <div id="ref-wheeler_plants_2017" class="csl-entry">
 
-<span class="csl-left-margin">7 </span><span class="csl-right-inline">Wheeler J. [Plants for Pollinators: Violets](https://xerces.org/blog/plants-for-pollinators-violets). *Xerces Society* 2017.</span>
+<span class="csl-left-margin">9 </span><span class="csl-right-inline">Wheeler J. [Plants for Pollinators: Violets](https://xerces.org/blog/plants-for-pollinators-violets). *Xerces Society* 2017.</span>
+
+</div>
+
+<div id="ref-mutuku_orobanchaceae_2021" class="csl-entry">
+
+<span class="csl-left-margin">10 </span><span class="csl-right-inline">Mutuku JM, Cui S, Yoshida S, Shirasu K. Orobanchaceae parasite–host interactions. *New Phytologist* 2021;**230**:46–59. <https://doi.org/10.1111/nph.17083>.</span>
+
+</div>
+
+<div id="ref-wang_analysis_2021" class="csl-entry">
+
+<span class="csl-left-margin">11 </span><span class="csl-right-inline">Wang X, Shen C, Meng P, Tan G, Lv L. Analysis and review of trichomes in plants. *BMC Plant Biology* 2021;**21**:70. <https://doi.org/10.1186/s12870-021-02840-x>.</span>
 
 </div>
 
 <div id="ref-hodzic_root_2022" class="csl-entry">
 
-<span class="csl-left-margin">8 </span><span class="csl-right-inline">Hodžić J, Pearse I, Beaury EM, Corbin JD, Bakker JD. Root hemiparasitic plants are associated with more even communities across North America. *Ecology* 2022;**n/a**:e3837. <https://doi.org/10.1002/ecy.3837>.</span>
+<span class="csl-left-margin">12 </span><span class="csl-right-inline">Hodžić J, Pearse I, Beaury EM, Corbin JD, Bakker JD. Root hemiparasitic plants are associated with more even communities across North America. *Ecology* 2022;**103**:e3837. <https://doi.org/10.1002/ecy.3837>.</span>
+
+</div>
+
+<div id="ref-batiha_systematic_2023" class="csl-entry">
+
+<span class="csl-left-margin">13 </span><span class="csl-right-inline">Batiha GE-S, Lukman HY, Shaheen HM, Wasef L, Hafiz AA, Conte-Junior CA, *et al.* A Systematic Review of Phytochemistry, Nutritional Composition, and Pharmacologic Application of Species of the Genus Viola in Noncommunicable Diseases (NCDs). *Evidence-Based Complementary and Alternative Medicine : eCAM* 2023;**2023**:5406039. <https://doi.org/10.1155/2023/5406039>.</span>
 
 </div>
 
