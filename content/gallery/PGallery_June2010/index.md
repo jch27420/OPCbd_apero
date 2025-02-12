@@ -251,7 +251,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Erigeron strigosus</i> (<b>S5</b>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/76942-Erigeron-strigosus" target="_blank" title="Go to iNaturalist">Daisy Fleabane</a></b>, is a native forb and member of the family <i>Asteraceae</i>. The flowers are composed of multiple (50-100) <b>ray florets</b> (usually white) and a central yellow <b>disc floret</b>. Apparently they exhibit a certain degree of morphological plasticity and are therefore often mistaken for other closely related <b>Fleabanes</b> such as <i>Erigeron annuus</i>. However, the leaves of this plant are simple, narrow, and generally smooth along the margins. They also become smaller as you ascend the plant. In addition, the stems are <b>strigose</b> (i.e. hairs pressed against stem, upwards and not outwards as is typical of <i>Erigeron annuus</i>) or minutely <b>strigose</b> (i.e. <b>strigilose</b>).</span>
+<span id="blk"><i>Erigeron strigosus</i> (<b>S5</b>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/76942-Erigeron-strigosus" target="_blank" title="Go to iNaturalist">Daisy Fleabane</a></b>, is a native forb and member of the family <i>Asteraceae</i>. The flowers are composed of multiple (50-100) <b>ray florets</b> (usually white) and multiple yellow central <b>disc florets</b>. Apparently they exhibit a certain degree of morphological plasticity and are therefore often mistaken for other closely related <b>Fleabanes</b> such as <i>Erigeron annuus</i>. However, the leaves of this plant are simple, narrow, and generally smooth along the margins. They also become smaller as you ascend the plant. In addition, the stems are <b>strigose</b> (i.e. hairs pressed against stem, upwards and not outwards as is typical of <i>Erigeron annuus</i>) or minutely <b>strigose</b> (i.e. <b>strigilose</b>).</span>
 </p>
 
 </div>
@@ -271,7 +271,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Aletris farinosa</i> (<span id="Or">S2</span>, <b>G5</b>), commonly referred to as <b><a class="one" href="https://www.inaturalist.org/taxa/158161-Aletris-farinosa" target="_blank" title="Go to iNaturalist">White-tubed Colicroot</a></b> is a native perennial forb and member of the family <i>Nartheciaceae</i>. The plant has a relatively long (2-3 ft.) leafless flowering stalk that is topped by a spike-like cluster of small beautiful creamy white cylindrical flowers. <b>White</b> and <b>Madany</b> (1981) noted that <i>A. farinosa</i> was one of a few characteristic (indicator) species of <sup>†</sup>mesic sandy prairies (Note: <sup>†</sup>moisture-substrate classification scheme used to characterize local floral communities). Unfortunately <b>COSEWIC</b> (2015) lists the species as highly threatened and no existing habitat is regulated under current provincial law. <b>COSEWIC</b> (2015) estimates that there are only ~14,600 plants, mostly (~93%) located within a 12 km<sup>2</sup> area of Essex county. All existing sub-populations are imperilled due to the continued fragmentation and loss of habitat.</span>
+<span id="blk"><i>Aletris farinosa</i> (<span id="Or">S2</span>, <b>G5</b>), commonly referred to as <b><a class="one" href="https://www.inaturalist.org/taxa/158161-Aletris-farinosa" target="_blank" title="Go to iNaturalist">White-tubed Colicroot</a></b> is a native perennial forb and member of the family <i>Nartheciaceae</i>. The plant has a relatively long (2-3 ft.) leafless flowering stalk that is topped by a spike-like cluster of small beautiful creamy white cylindrical flowers. <b>White</b> and <b>Madany</b> (1981) noted that <i>A. farinosa</i> was one of a few characteristic (indicator) species of <sup>†</sup>mesic sandy prairies (Note: <sup>†</sup>moisture-substrate classification scheme used to characterize local floral communities). Unfortunately <b>COSEWIC</b> (2015) lists the species as highly threatened and no existing habitat is regulated under current provincial law. <b>COSEWIC</b> (2015) estimates that there are only ~14,600 plants, mostly (~93%) located within a 12 km<sup>2</sup> area of Essex county. All existing sub-populations are imperilled due to the continued habitat fragmentation and loss.</span>
 </p>
 
 </div>
@@ -311,7 +311,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Asclepias tuberosa</i> (<span id="Blue">S4</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/47912-Asclepias-tuberosa" target="_blank" title="Go to iNaturalist">Butterfly weed</a></b> or <b>Orange Milkweed</b>, and the butterfly <i>Satyrium edwardsii</i> (<span id="Blue">S4</span>, <span id="Blue">G4</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/81566-Satyrium-edwardsii" target="_blank" title="Go to iNaturalist">Edwards’ hairstreak</a></b>. The plant is a native perennial forb and an important food resource for many pollinating insects, most notably butterflies (<b>Stevens</b> 2006). First Nations People used the roots of the plant to treat respiratory illnesses (i.e. aka: <b>Pleuresy root</b>). According to <b>Gilmore</b> (1919) the “<i>…root was eaten raw for bronchial and pulmonary trouble</i>”. It’s also interesting to note that the concentration of <b><a class="one" href="https://opc-project.netlify.app/project/pnps" target="_blank" title="Go to PNP section">cardiac glycosides</a></b> within the leaves of <i>A. tuberosa</i> are much lower than those found in other milkweed species (<b>Agrawal</b> et. al 2009), which may help to explain why it is not the preferred host plant of <b>Monarch butterflies</b>. <i>S. edwardsii</i> feeding on <b>Butterfly weed</b> is a common site at <b>OPC</b> due in part to the presence of oaks since their larvae feed on <i>Quercus</i> species. The distinguishing features of this butterfly include the row of white-rimmed spots on the underside and the prominent orange mark along the inner margin of the hind-wing.</span>
+<span id="blk"><i>Asclepias tuberosa</i> (<span id="Blue">S4</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/47912-Asclepias-tuberosa" target="_blank" title="Go to iNaturalist">Butterfly weed</a></b> or <b>Orange Milkweed</b>, and the butterfly <i>Satyrium edwardsii</i> (<span id="Blue">S4</span>, <span id="Blue">G4</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/81566-Satyrium-edwardsii" target="_blank" title="Go to iNaturalist">Edwards’ hairstreak</a></b>. The plant is a native perennial forb and an important food resource for many pollinating insects, most notably butterflies (<b>Stevens</b> 2006). According to <b>Gilmore</b> (1919) the “<i>…root was eaten raw for bronchial and pulmonary trouble</i>” by First Nations People (i.e. aka: <b>Pleuresy root</b>). Finding <i>S. edwardsii</i> feeding on <b>Butterfly weed</b> is a common site at <b>OPC</b>. This is no doubt due to the presence of nearby oaks (i.e. <i>Quercus</i> spp.) since the larvae of this butterfly feed on the leaves of these trees. The distinguishing features of this butterfly include the row of white-rimmed spots on the underside and the prominent orange mark along the inner margin of the hind-wing.</span>
 </p>
 
 </div>
@@ -351,7 +351,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Asclepias purpurascens</i> (<span id="Dred">S1</span>, <span id="Blue">G4</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/125380-Asclepias-purpurascens" target="_blank" title="Go to iNaturalist">Purple Milkweed</a></b>, is a rare native herbaceous plant of eastern and central North America that prefers partial shade. A notably feature of this plant is the colour transitions (i.e. turns a darker purple) the flower undergoes as it matures (Note: darker older umbel on the right).</span>
+<span id="blk"><i>Asclepias purpurascens</i> (<span id="Dred">S1</span>, <span id="Blue">G4</span>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/125380-Asclepias-purpurascens" target="_blank" title="Go to iNaturalist">Purple Milkweed</a></b>, is a rare native herbaceous plant of eastern and central North America that prefers partial shade. A notably feature of this plant is the flower colour transition (i.e. turns a darker purple as it matures, like the older umbel on the right).</span>
 </p>
 
 </div>
@@ -451,7 +451,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Papilio cresphontes</i> (<b>S5</b>, <b>G5</b>), commonly known as the <b><a class="one" href="https://www.inaturalist.org/taxa/85024-Heraclides-cresphontes" target="_blank" title="Go to iNaturalist">Eastern Giant Swallowtail</a></b>, is the largest butterfly in North America. There notable wingspan (i.e. upwards of 18 cm in females) makes them powerful flyers and they are considered pests to citrus farmers (i.e. larvae eat young tree foliage). The larva deter predators by employing camouflage (i.e. mimic bird droppings) and an <b>osmeterium</b>. The latter is an inflatable orange-red Y-shaped organ located behind the head that secretes foul smelling compounds that wards off invertebrate predators (<b>Leslie</b> and <b>Berenbaum</b> 1990, <b>Minno</b> and </b>Emmel 1992).</span>
+<span id="blk"><i>Papilio cresphontes</i> (<b>S5</b>, <b>G5</b>), commonly known as the <b><a class="one" href="https://www.inaturalist.org/taxa/85024-Heraclides-cresphontes" target="_blank" title="Go to iNaturalist">Eastern Giant Swallowtail</a></b>, is the largest butterfly in North America. Their relatively large wingspan (i.e. upwards of 18 cm) makes them powerful flyers. Citrus farmers considered them pests since the larvae eat the foliage of young trees. The larva of this swallowtail deter predators by employing camouflage (i.e. mimic bird droppings) and secreting foul smelling compounds from its <b>osmeterium</b>, an inflatable orange-red Y-shaped organ located behind the head of the caterpillar (<b>Leslie</b> and <b>Berenbaum</b> 1990, <b>Minno</b> and </b>Emmel 1992).</span>
 </p>
 
 </div>
@@ -471,7 +471,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 <div class="caption-container">
 
 <p id="caption">
-<span id="blk"><i>Lythrum alatum</i> (<span id="Gold">S3</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/128998-Lythrum-alatum" target="_blank" title="Go to iNaturalist">Winged Loosestrife</a></b>, is a provincially rare native perennial plant and member of the family <i>Lythraceae</i>. The six pink petals have a striking magenta central vein, and six stamens tipped by dark purple anthers. It prefers low lying wet areas as evidenced by this specimen, which was found in open wet field close to the Detroit river.</span>
+<span id="blk"><i>Lythrum alatum</i> (<span id="Gold">S3</span>, <b>G5</b>), commonly known as <b><a class="one" href="https://www.inaturalist.org/taxa/128998-Lythrum-alatum" target="_blank" title="Go to iNaturalist">Winged Loosestrife</a></b>, is a provincially rare native perennial plant and member of the family <i>Lythraceae</i>. The flower has six pink petals marked by a magenta central vein, and six stamens that have dark purple anthers at their tips. It prefers low lying wet areas as evidenced by this specimen, which was found in open wet field close to the Detroit river.</span>
 </p>
 
 </div>
@@ -614,7 +614,7 @@ function showSlides(n) {
   }
 </script>
 
-References cited in above photo gallery: <b><sup>[1](#ref-waugh_iroquois_1916)–[19](#ref-lopez-goldar_evidence_2022)</sup></b>
+References cited in above photo gallery: <b><sup>[1](#ref-waugh_iroquois_1916)–[18](#ref-lopez-goldar_evidence_2022)</sup></b>
 
 <hr style="border:2px solid gray">
 
@@ -740,39 +740,33 @@ GLOBAL & REGIONAL RANKINGS
 
 </div>
 
-<div id="ref-agrawal_phylogenetic_2009" class="csl-entry">
-
-<span class="csl-left-margin">14 </span><span class="csl-right-inline">Agrawal AA, Salminen J-P, Fishbein M. Phylogenetic Trends in Phenolic Metabolism of Milkweeds (Asclepias): Evidence for Escalation. *Evolution* 2009;**63**:663–73. <https://doi.org/10.1111/j.1558-5646.2008.00573.x>.</span>
-
-</div>
-
 <div id="ref-belt_plant_2009" class="csl-entry">
 
-<span class="csl-left-margin">15 </span><span class="csl-right-inline">Belt S. *Plant Fact Sheet for Horsefly Weed, Baptisia tinctoria (L.) R. Br.* USDA, NRCS National Plant Materials Center, Beltsville, Maryland; 2009.</span>
+<span class="csl-left-margin">14 </span><span class="csl-right-inline">Belt S. *Plant Fact Sheet for Horsefly Weed, Baptisia tinctoria (L.) R. Br.* USDA, NRCS National Plant Materials Center, Beltsville, Maryland; 2009.</span>
 
 </div>
 
 <div id="ref-agrawal_toxic_2012" class="csl-entry">
 
-<span class="csl-left-margin">16 </span><span class="csl-right-inline">Agrawal A, Petschenka A, Bingham R, Weber M, Rasmann S. Toxic Cardenolides: Chemical Ecology and Coevolution of Specialized Plant-Herbivore Interactions. *The New Phytologist* 2012;**194**:28–45. <https://doi.org/10.1111/j.1469-8137.2011.04049.x>.</span>
+<span class="csl-left-margin">15 </span><span class="csl-right-inline">Agrawal A, Petschenka A, Bingham R, Weber M, Rasmann S. Toxic Cardenolides: Chemical Ecology and Coevolution of Specialized Plant-Herbivore Interactions. *The New Phytologist* 2012;**194**:28–45. <https://doi.org/10.1111/j.1469-8137.2011.04049.x>.</span>
 
 </div>
 
 <div id="ref-sheahan_fact_2012" class="csl-entry">
 
-<span class="csl-left-margin">17 </span><span class="csl-right-inline">Sheahan CM. *[Fact sheet for common St. Johnswort (Hypericum perforatum)](https://plants.usda.gov/DocumentLibrary/factsheet/pdf/fs_hype.pdf)*. USDA-NRCS Cape May Plant Materials Center, Cape May, NJ. 08210.; 2012.</span>
+<span class="csl-left-margin">16 </span><span class="csl-right-inline">Sheahan CM. *[Fact sheet for common St. Johnswort (Hypericum perforatum)](https://plants.usda.gov/DocumentLibrary/factsheet/pdf/fs_hype.pdf)*. USDA-NRCS Cape May Plant Materials Center, Cape May, NJ. 08210.; 2012.</span>
 
 </div>
 
 <div id="ref-jones_cosewic_2015" class="csl-entry">
 
-<span class="csl-left-margin">18 </span><span class="csl-right-inline">Jones J, Bennett BA. *[COSEWIC Assessment and Status Report on the Colicroot, Aletris farinosa, in Canada](https://publications.gc.ca/site/eng/9.814013/publication.html?wbdisable=true)*. Ottawa, Canada: COSEWIC; 2015.</span>
+<span class="csl-left-margin">17 </span><span class="csl-right-inline">Jones J, Bennett BA. *[COSEWIC Assessment and Status Report on the Colicroot, Aletris farinosa, in Canada](https://publications.gc.ca/site/eng/9.814013/publication.html?wbdisable=true)*. Ottawa, Canada: COSEWIC; 2015.</span>
 
 </div>
 
 <div id="ref-lopez-goldar_evidence_2022" class="csl-entry">
 
-<span class="csl-left-margin">19 </span><span class="csl-right-inline">López-Goldar X, Hastings A, Züst T, Agrawal A. Evidence for tissue-specific defence-offence interactions between milkweed and its community of specialized herbivores. *Molecular Ecology* 2022;**31**:3254–65. <https://doi.org/10.1111/mec.16450>.</span>
+<span class="csl-left-margin">18 </span><span class="csl-right-inline">López-Goldar X, Hastings A, Züst T, Agrawal A. Evidence for tissue-specific defence-offence interactions between milkweed and its community of specialized herbivores. *Molecular Ecology* 2022;**31**:3254–65. <https://doi.org/10.1111/mec.16450>.</span>
 
 </div>
 
