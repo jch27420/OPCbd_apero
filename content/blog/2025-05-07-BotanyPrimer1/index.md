@@ -1,0 +1,94 @@
+---
+title: OPC Botany Primer1
+subtitle: " "
+excerpt: "The Botany Primer addition to the Project section takes a closer look at plant anatomy and some of the genetic details governing flower development."
+author: JCH
+date: '2025-05-07'
+bibliography: OPCbotany.bib
+csl: NIH_research.csl
+link-citations: yes
+slug:
+categories:
+tags:
+layout: single
+---
+
+<style>
+/* =============================== */
+/*          CSS for Links          */
+/* =============================== */
+a.one:link {color: rgb(0, 0, 200);}
+a.one:visited {color: rgb(192, 20, 172);}
+a.one:hover {color: rgb(255, 20, 100);}
+/* =============================== */
+/*           CSS for Text          */
+/* =============================== */
+#Blk { font-weight: bold; color: rgb(0, 0, 0); }
+#Red { font-weight: bold; color: rgb(255, 10, 20); }
+#Red2 { font-weight: bold; color: rgb(255, 50, 50); }
+#Dred { font-weight: bold; color: rgb(175, 0, 0); }
+#Or { font-weight: bold; color: rgb(255, 140, 0); }
+#Or2 { font-weight: bold; color: rgb(245, 180, 0); }
+#Gold { font-weight: bold; color: rgb(230, 190, 0); }
+#Ly { font-weight: bold; color: rgb(225, 200, 0); }
+#Y1 { font-weight: bold; color: rgb(255, 225, 100); }
+#Y2 { font-weight: bold; color: rgb(225, 200, 50); }
+#GrY { font-weight: bold; color: rgb(240, 240, 0); }
+#Grod { font-weight: bold; color: rgb(200, 160, 40); }
+#Gr1 { font-weight: bold; color: rgb(25, 200, 25); }
+#Gr2 { font-weight: bold; color: rgb(25, 150, 25); }
+#Gr3 { font-weight: bold; color: rgb(25, 100, 25); }
+#Moss { font-weight: bold; color: rgb(80, 210, 100); }
+#BGr { font-weight: bold; color: rgb(67, 205, 170); }
+#Teal { font-weight: bold; color: rgb(60, 180, 180); }
+#Teal2 { font-weight: bold; color: rgb(60, 100, 200); }
+#Blue { font-weight: bold; color: blue; }
+#SkyB { font-weight: bold; color: rgb(104, 207, 240); }
+#Cb { font-weight: bold; color: rgb(0, 123, 167); }
+#Glacialb { font-weight: bold; color: rgb(54, 139, 193); }
+#Db2 { font-weight: bold; color: rgb(0, 0, 100); }
+#Lb1 { font-weight: bold; color: rgb(50, 215, 255); }
+#Lb2 { font-weight: bold; color: rgb(50, 155, 255); }
+#Lb3 { font-weight: bold; color: rgb(50, 115, 255); }
+#Violet { font-weight: bold; color: rgb(180, 73, 255); }
+#V2 { font-weight: bold; color: rgb(183, 137, 211); }
+#Purple { font-weight: bold; color: rgb(150, 0, 255); }
+#Dpurp { font-weight: bold; color: rgb(95, 0, 161); }
+#Magenta { font-weight: bold; color: rgb(255, 0, 255); }
+#Coral { font-weight: bold; color: rgb(255, 127, 80); }
+#Salmon { font-weight: bold; color: rgb(255, 140, 160); }
+#Crim { font-weight: bold; color: rgb(220, 20, 60); }
+#Rasp { font-weight: bold; color: rgb(227, 11, 92); }
+#Lgray { font-weight: bold; color: rgb(220, 220, 220); }
+#Silver { font-weight: bold; color: rgb(192, 192, 192); }
+#Gray { font-weight: bold; color: rgb(155, 155, 155); }
+#Gray2 { font-weight: bold; color: rgb(215, 200, 200); }
+#Dgray { font-weight: bold; color: rgb(95, 95, 95); }
+#Br { font-weight: bold; color: rgb(165, 42, 42); }
+#Rust { font-weight: bold; color: rgb(183, 65, 14); }
+#Dbr { font-weight: bold; color: rgb(100, 20, 20); }
+#Zinc { font-weight: bold; color: rgb(140, 209, 187); }
+#Zinc2 { font-weight: bold; color: rgb(0, 102, 102); }
+</style>
+<!------------------------------------------------>
+<!------------ FIG 1 -   ------------->
+<!------------------------------------------------>
+
+<div>
+
+<figure align="center">
+<img src="images/BotPrimer_blog_pic.jpg" alt="" width="400px"/>
+</figure>
+
+</div>
+
+<!---------------------------------------------->
+<!-------- END - FIG 1 -   --------->
+<!---------------------------------------------->
+
+The latest project section, entitled “<span id="Dred">OPC</span> **Botany Primer1**”, details some of the more common botany terms and concepts about flowering plants. I also explore some of the underlying genetics that govern flower development. Part of the goal of this primer is to help students become more knowledgeable about flower anatomy, and to help them identify plants in the field. The **Gallery** section of this site provides some examples of plant species and the unique features that aided in their identification. Like most things it takes a little bit of practise to learn how to identify plants, as well as when and where to find them. Certainly having a good field guide in hand during your nature treks is highly recommended, as is consulting and becoming a member of <b><a class="one" href="https://www.inaturalist.org/observations?view=species" target="_blank" title="">iNaturalist</a></b>. The discussions about floral genetics provides a deeper look at what regulates flower development, as well as how flowering is triggered in response to environmental signals.
+
+<br>
+as always good reading!
+
+JCH
