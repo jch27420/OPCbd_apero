@@ -259,7 +259,7 @@ a.one:hover {color: rgb(255, 20, 100);}
 
 <figure>
 
-<img src="images/SAM_Structure.jpg" alt="" width="800px"/>
+<img src="images/SAM_Structure1.jpg" alt="" width="800px"/>
 
 </figure>
 
@@ -555,8 +555,6 @@ LIST OF COMMON PLANT ANATOMY TERMS
 **Perfect Flower:** contains both **stamens** and **carpels** (i.e. bi-sexual).
 
 **Ploidy:** cells with either one or more sets of chromosomes (e.g. **<i>n</i>** = **haploid**; **2<i>n</i>** = **diploid**; **4<i>n</i>** = **tetraploid**). Alternating between **diploid** and **haploid** phases is the basis of sexual reproduction.
-
-**Receptacle:** part of flower stalk to which the flower parts are attached.
 
 **Perianth:** structure formed by both the **calyx** and **corolla**.
 

@@ -264,6 +264,7 @@ pacman::p_load(blogdown, tidyverse, kableExtra, dplyr, purrr, bibtex, citr)
 
 </details>
 
+
 <a id="Angio"></a> 
 <!----------------------------------------------------->
 <!--------- SECTION 1 - IMPORTANTCE OF SOILS  --------->
@@ -275,7 +276,6 @@ pacman::p_load(blogdown, tidyverse, kableExtra, dplyr, purrr, bibtex, citr)
 &nbsp; &nbsp; So what regulates the structure of plants? Of course aerial traits like the shape of the **inflorescence** are largely controlled by species-specific genes. And the most important cells where this genetic program plays out is no doubt the primary **shoot apical meristem** (<span id="Dred">SAM</span>), a specialized growth centre that houses totipotent **stem cells**. In fact most stem cells housed within different types of **meristems** remain totipotent (i.e. capable of producing any cell type) throughout the plant’s entire life. So for **inflorescence** development the <span id="Dred">SAM</span> is, as **Jürgens** (2001) put it, the &ldquo;<i>...ultimate source of cells for all aerial parts of the plant</i>&rdquo;.**[@jurgens_apical-basal_2001]** **Foster** (1938) noted many years ago that &ldquo;<i>...the most distinctive feature of the meristem of the shoot apex...is the segregation of its cells into a number of well-defined zones</i>&rdquo;. Based on his microscope studies several **meristem** zones were proposed, including: **(i) Zone I** as &ldquo;<i>the position of the apical initial group, from which by anticlinal and periclinal divisions respectively the surface layer (sl) and the internal tissue of the growing point originate</i>&rdquo;,**[@foster_structure_1938]** **(ii) Zone II** as the &ldquo;<i>...prominent cup-shaped mass of large, slowly dividing central <u>mother cells</u></i>&rdquo;,**[@foster_structure_1938]** and **(iii) Zone III** as the remaining cells along the periphery and lower margins of the &ldquo;<i>central mother cells</i>&rdquo;. These cells are noted for their &ldquo;<i>...smaller size and frequency of division</i>&rdquo;.**[@foster_structure_1938]** For **Foster** **Zone III** represented a transition zone that gave way to &ldquo;<i>the peripheral subsurface layers (Zone IV) and the rib meristem (Zone V)</i>&rdquo;.**[@foster_structure_1938]** Present day descriptions of the apical **meristem** often refer to the surface layer as the **tunica** and the main internal body of cells as the **corpus**. In addition the **tunica** of **angiosperms** like <b><a class="one" href="https://www.arabidopsis.org/" target="_blank" title="Go to TAIR"><i>Arabidopsis thaliana</i></a></b> contains two horizontal layers of cells (i.e. **L1** and **L2**) that are maintained by <u>anti-clinical</u> (i.e. dividing plane is perpendicular to surface) cellular division. In keeping with **Foster's** zonal model the **apical meristem** is currently divided up into three main zones: (i) the **central zone** or <span id="Dred">CZ</span>, (ii) the **peripheral zone** or <span id="Dred">PZ</span>, and (iii) the **rib zone**, which is also known as the **rib meristem** (<span id="Dred">RM</span>).**[@traas_cellular_2001]** The totipotent **stem cells** are found within the <span id="Dred">CZ</span> (i.e. occupies part of the **tunica** and **corpus**) and their numbers and identities (i.e. &ldquo;<i>stem-ness</i>&rdquo;) are largely controlled by cells within the <u>organizing centre</u> (<span id="Dred">OC</span>) located just below the <span id="Dred">CZ</span>.**[@laux_wuschel_1996; @mayer_role_1998; @schoof_stem_2000]** There are also secondary **meristems** that are responsible for lateral growth (i.e. increased plant girth), but only apical and axillary **meristems** produce elongating and branching shoots, as well as their leaves and flowers (i.e. **inflorescence**). However, from an ecological stand point, only plant's with suitable or well adapted **inflorescence** traits (i.e. <b><a class="one" href="https://evolution.berkeley.edu/evolution-101/mechanisms-the-processes-of-evolution/evolutionary-fitness/" target="_blank" title="Go to Evolution 101">fitness</a></b>) will likely survive to produce the next generation of flowers. This was pointed out by Swedish botanist **Göte Turesson** (1922) over a century ago when he stated that &ldquo;<i>...habitat types represents the genotypical response of the species population to a definite habitat....<u>ecotype</u> is used as an ecological sub-unit to cover the product arising as a result of the genotypical response of an <u>ecospecies</u> to a particular habitat</i>&rdquo;.**[@turesson_species_1922; @turesson_genotypical_1922]**
 
 
-
 <a id="Fig1"></a>
 <!--------------------------------------->
 <!------------ FIG 1 - SAM  ------------->
@@ -284,7 +284,7 @@ pacman::p_load(blogdown, tidyverse, kableExtra, dplyr, purrr, bibtex, citr)
 
 <figure>
 
-<img src="images/SAM_Structure.jpg" alt="" width="800px"/>
+<img src="images/SAM_Structure1.jpg" alt="" width="800px"/>
 
 </figure>
 
@@ -479,6 +479,7 @@ Despite its short comings the **ABC** model does provide a insightful framework 
 **(B)** The structure of the <span id="Purple">SEP</span>**3<sup>75-178</sup>**/<span id="Teal">AG</span>**<sup>90-189</sup>** hetero-tetramer has recently been published (<b><a class="one" href="https://www.rcsb.org/structure/8CRA" target="_blank" title="Go to PDB">PDB code: 8CRA</a></b>).**[@hugouvieux_sepallata-driven_2024]** The above images of the protein crystal structure were generated using the <b><a class="one" href="https://www.cgl.ucsf.edu/chimerax/" target="_blank" title="Go to UCSF">ChimeraX</a></b> v1.9 program.**[@pettersen_ucsf_2021]** The crystal structure contains all three **K** sub-domains (**K1-3**), as well as a small part of the **I domain** and a few residues of the **C domain**. As noted previously the overall tetramer structure is shaped like a cross. Each <span id="Teal">AG</span>**<sup>90-189</sup>** monomer is highlighted in a colour gradient with the amino or <span id="Blue">N</span>**-terminus** in <span id="Blue">blue</span> and the downstream carboxyl or <span id="Red">C</span>**-terminus** in <span id="Red">red</span>. Each <span id="Purple">SEP</span>**3<sup>75-178</sup>** monomer is depicted in solid green and grey for contrast. The structure on the left renders the molecular surface of the monomers while the structure on the right only depicts the core secondary structures of the monomers (i.e. &alpha;-helices and unstructured kinked region between **K1** and **K2**). The latter structure provides a clear picture of the contact area that constitutes the tetramerization domain (i.e. **K3** sub-domain), as well as how closely intertwined the **K1** &alpha;-helices are within each dimer.  
 
 
+
 </div>
 <!---------------------------------------------->
 <!-------- END - FIG 8 - SEP Signalling -------->
@@ -573,8 +574,6 @@ Despite its short comings the **ABC** model does provide a insightful framework 
 **Perfect Flower:** contains both **stamens** and **carpels** (i.e. bi-sexual).  
 
 **Ploidy:** cells with either one or more sets of chromosomes (e.g. **<i>n</i>** = **haploid**; **2<i>n</i>** = **diploid**; **4<i>n</i>** = **tetraploid**). Alternating between **diploid** and **haploid** phases is the basis of sexual reproduction.  
-
-**Receptacle:** part of flower stalk to which the flower parts are attached.  
 
 **Perianth:** structure formed by both the **calyx** and **corolla**.  
 
