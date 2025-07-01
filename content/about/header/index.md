@@ -7,8 +7,6 @@ headline: Ojibway Prairie Complex
 
 <head>
 
-<meta name="google-site-verification" content="Z0mS_IXks6QAUwJ47XXoQ5-4T0n0l_R1GTlSth5nUjc" />
-
 <style type="text/css">
 #Dred { font-weight: bold; color: rgb(175, 0, 0); }
 #Gold { font-weight: bold; color: rgb(230, 190, 0); }
@@ -39,6 +37,12 @@ p {font-size: 18px;}
 **2.** Bakowsky, W. and J. Riley. 1994. A survey of the prairies and savannas of southern Ontario. In R. Wickett, P. Dolan Lewis, A. Woodliffe and P. Pratt, eds. Proceedings of the Thirteenth North American Prairie Conference: Spirit of the Land, Our Prairie Legacy. August 6-9, 1992. Windsor, Ontario: Corporation of the City of Windsor. pp. 7-16.  
 **3.** Rodger, L. 1998. Tallgrass communities of southern Ontario: a recovery plan. World Wildlife Fund Canada and Ontario Ministry of Natural Resources and Forestry, Toronto. 66 pages.  
 **4.** Tallgrass Communities of Southern Ontario Conservation Plan. 2019. Provincial Conservation Plan. Ontario Ministry of Natural Resources and Forestry, Peterborough, Ontario. 74 pages. 
+
+
+<!-- 100% privacy-first analytics -->
+<script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+<!-- Google analytics option -- <meta name="google-site-verification" content="Z0mS_IXks6QAUwJ47XXoQ5-4T0n0l_R1GTlSth5nUjc" /> -->
 
 </body>
 
