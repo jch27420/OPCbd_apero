@@ -125,6 +125,11 @@ For example, there is a small but distinct lens-shaped area of open sandy soil n
 
 <hr style="border:2px solid gray">
 
+
+<!-- 100% privacy-first analytics -->
+<script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
 <a id="Refs"></a>
 
 ## REFERENCES

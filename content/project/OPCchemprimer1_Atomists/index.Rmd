@@ -1069,3 +1069,7 @@ A year or so later **<a class="one" href="https://www.nobelprize.org/prizes/phys
   });
 </script>
 
+
+<!-- 100% privacy-first analytics -->
+<script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+

@@ -546,3 +546,9 @@ The use of &delta;<sup>18</sup><span id="Red">O</span>, as well as other types o
   });
 </script>
 
+
+<!-- 100% privacy-first analytics -->
+<script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+

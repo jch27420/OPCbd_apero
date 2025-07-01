@@ -540,9 +540,6 @@ There are other **latex** compounds, besides *natural rubber*, that make the pla
   
 
 
-
-
-
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
   kofiWidgetOverlay.draw('jch274202227', {
@@ -552,4 +549,10 @@ There are other **latex** compounds, besides *natural rubber*, that make the pla
     'floating-chat.donateButton.text-color': '#fff'
   });
 </script>
+
+
+
+<!-- 100% privacy-first analytics -->
+<script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
 

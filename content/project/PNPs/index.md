@@ -1444,19 +1444,7 @@ Fortunately by 1795, one year after **Lind's** death, the British Royal Navy fin
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- 100% privacy-first analytics -->
+<script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 
 

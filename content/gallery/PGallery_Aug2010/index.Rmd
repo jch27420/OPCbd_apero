@@ -479,3 +479,9 @@ References cited in above photo gallery: <b>[@waugh_iroquois_1916; @blanchan_wil
   });
 </script>
 
+
+
+<!-- 100% privacy-first analytics -->
+<script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+

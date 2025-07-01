@@ -397,3 +397,9 @@ References cited in above photo gallery: [@waugh_iroquois_1916; @gilmore_uses_19
   });
 </script>
 
+
+
+<!-- 100% privacy-first analytics -->
+<script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+

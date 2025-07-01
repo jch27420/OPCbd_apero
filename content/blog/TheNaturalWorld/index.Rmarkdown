@@ -53,6 +53,12 @@ pacman::p_load(pacman, blogdown, tidyverse, kableExtra, DT, data.table, formatta
 &nbsp; &nbsp; So what does this have to do with <span id="Dred">O</span>jibway <span id="Dred">P</span>rairie <span id="Dred">C</span>omplex (<span id="Dred">OPC</span> )? Obviously, <span id="Dred">OPC</span> is a microcosm of our natural world and thus in need of our protection. "*All things are connected*" within the "*web*" of life. Its "*true*" economic value is immeasurable and certainly worth fighting for since our very future as a species is very much dependent on it.
 
 <hr style="border:2px solid gray">
+
+
+<!-- 100% privacy-first analytics -->
+<script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
 <a id="Refs"></a>
 
 ### REFERENCES

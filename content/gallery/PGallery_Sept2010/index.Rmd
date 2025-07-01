@@ -502,3 +502,10 @@ References cited in above photo gallery: <b>[@blanchan_wild_1917; @catling_spira
   });
 </script>
 
+
+
+<!-- 100% privacy-first analytics -->
+<script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+

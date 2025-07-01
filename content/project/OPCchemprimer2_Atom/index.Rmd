@@ -1555,9 +1555,6 @@ The subscripts added to the <b>probability distribution</b> (<b>$\text P_{n, \el
   
 
 
-
-
-
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
   kofiWidgetOverlay.draw('jch274202227', {
@@ -1567,4 +1564,10 @@ The subscripts added to the <b>probability distribution</b> (<b>$\text P_{n, \el
     'floating-chat.donateButton.text-color': '#fff'
   });
 </script>
+
+
+<!-- 100% privacy-first analytics -->
+<script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
 

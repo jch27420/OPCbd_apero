@@ -1342,3 +1342,8 @@ Unfortunately, the vast majority of **earthworms** in Canada east of the Pacific
   });
 </script>
 
+
+<!-- 100% privacy-first analytics -->
+<script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
