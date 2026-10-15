@@ -1,0 +1,79 @@
+---
+title: ChemPrimer3 - Molecules
+subtitle: " "
+excerpt: "ChemPrimer3 explores chemical bonding theories that explains how molecules are formed."
+author: JCH
+date: '2026-10-15'
+bibliography: OPCchemprimer1.bib
+csl: NIH_research.csl
+link-citations: yes
+slug:
+categories:
+tags:
+layout: single
+---
+
+<style>
+
+/* =============================== */
+/*          CSS for Links          */
+/* =============================== */
+a.one:link {color: rgb(0, 0, 200);}
+a.one:visited {color: rgb(192, 20, 172);}
+a.one:hover {color: rgb(255, 20, 100);}
+
+/* ========================== */
+/* ====== Text Colours ====== */
+/* ========================== */
+#Blk { font-weight: bold; color: rgb(0, 0, 0); }
+#OrR { font-weight: bold; color: rgb(255, 69, 0); }
+#Blue { font-weight: bold; color: blue; }
+
+#strokeB {
+  color: black;
+  background-color: white;
+  text-shadow: 1px 0 #000;
+  }
+
+</style>
+
+<!----------------------------------------------->
+<!------------ Figure - TS complex  ------------->
+<!----------------------------------------------->
+<div>
+
+<div style="border: 2px solid gray; padding: 5px;">
+
+<div align="center">
+<figure>
+![](images/TS_Bond_freq_animation.gif){width=500px}
+</figure>
+</div>
+
+A <b>vibrational mode</b> of the [[T]{#OrR}]{#strokeB}<b>ransition</b> [[S]{#OrR}]{#strokeB}<b>tate</b> reaction complex [[C]{#Blk}]{#strokeB}[[H]{#Blue}]{#strokeB}<b><sub>3</sub>&sdot;&sdot;&sdot;</b>[[H]{#Blue}]{#strokeB}<b>&sdot;&sdot;&sdot;</b>[[O]{#OrR}]{#strokeB}[[H]{#Blue}]{#strokeB}. 
+
+</div>
+
+<!---------------------------------------------->
+<!---------------------------------------------->
+<!---------------------------------------------->
+
+
+The third instalment of **ChemPrimer** takes a look at how molecules are formed, with chemical bonding theory taking centre stage. Although our current understanding of chemical bonding is based on quantum mechanics, the concept of chemical bonding dates back many years. In the early 19<sup>th</sup> century chemical bonds were being described as a product of electrical charges (i.e. electro-chemistry) by such luminary scientists as **Humphrey Davy** (1807), **Amedeo Avogadro** (1809) and **Jons Berzelius** (1811).<b>[@davy_i_1807; @jensen_electronegativity_2003]</b> However, it was only after **JJ Thomson's** (1897)<b>[@thomson_cathode_1897]</b> discovery of the electron that chemical bonding theory and electro-chemistry eventually merged. In particular, it was **Gilbert Lewis** (1916) and **Walter Kossel** (1916) who independently proposed that chemical bonding is a product of the electronic structure of atoms.<b>[@lewis_atom_1916; @kossel_uber_1916]</b> Most importantly it was **Lewis** who suggested that at the heart of every covalent bond is a shared pair of electrons. This idea, along with the octet rule, formed the corner stones of his **Cubical Atom** theory, one which gave rise to his famous <b><a class="one" href="https://www.lewisstructures.net/index.php" target="_blank" title="Go to Lewis Structures">Lewis Structure</a></b> diagrams.<b>[@lewis_atom_1916; @lewis_introductory_1923]</b>  
+
+
+>"...every atom is an essential kernal...and an outer atom or shell, in the case of the neutral atom, contains negative electrons equal in number to the excess of positive charges of the kernal, but the number of electrons in the shell may vary during chemical change between 0 and 8."<b>[@lewis_atom_1916]</b>  
+
+
+By the late 1920s and early 1930s several scientists, most notably **Fredrich Hund** (1926), **Robert Mulliken** (1926), **Walter Heitler** (1926), **Fritz London** (1927), **J.E. Leonnard-Jones** (1929), **Linus Pauling** (1931) and **John Slater** (1931), had developed quantum mechanical descriptions of chemical bonds.<b>[@hund_zur_1926; @mulliken_electronic_1926; @heitler_wechselwirkung_1927; @lennard-jones_electronic_1929; @pauling_nature_1931-1; @slater_directed_1931]</b> Some fifty years later computer software programs were developed that perform the enormous number of integral calculations needed to accurately model the electronic structures of molecules using quantum mechanics. Today there are several quantum chemistry programs that academics and enthusiasts alike use to model complex molecules and chemical reactions, such as the hydroxyl radical abstraction of hydrogen from methane animated above.  
+
+<br>
+
+...as always good reading, and of course stay bonded!
+
+JCH
+
+
+<br>
+
+**REFERENCES**
